@@ -1,0 +1,129 @@
+{
+  "Diplomacy": [
+    {
+      "title": "UK to expel 27 Israeli diplomats if east Jerusalem consulate closed, British diplomats expelled",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-910687",
+      "published_date": "2026-10-05T18:29:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US antisemitism envoy tells 'Post' people should understand Zionism, ‘not be ignorant about it’",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-910680",
+      "published_date": "2026-10-05T18:17:07+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least 75 pro-Palestinian protests planned worldwide on Oct. 7 anniversary, many deemed high risk",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-910676",
+      "published_date": "2026-10-05T18:02:36+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Man who planned attack on Israeli embassy in London sentenced to life in prison",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-910677",
+      "published_date": "2026-10-05T17:17:35+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Who will teach the next generation?",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-910208",
+      "published_date": "2026-10-01T12:29:23+00:00",
+      "category": "Diplomacy"
+    }
+  ],
+  "Military": [
+    {
+      "title": "Jerusalem man charged over year-long contact with alleged foreign agent",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-910686",
+      "published_date": "2026-10-05T18:28:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IAF soldiers reveal air force's initial response to flydubai attempted hijacking",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-910678",
+      "published_date": "2026-10-05T18:06:01+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Norway parliament to consider proposal for national terror list naming Hamas, IRGC - exclusive",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/islamic-terrorism/article-910672",
+      "published_date": "2026-10-05T17:13:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Syria terror suspects unarmed, attempted to gather intelligence on IDF posts in Security Zone",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-910670",
+      "published_date": "2026-10-05T16:41:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "‘Blood of my son on his hands’: Netanyahu’s October 7 speech interrupted by bereaved father",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-910665",
+      "published_date": "2026-10-05T16:30:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF killed two-thirds of terrorists who invaded Israel on October 7, intel chief tells cabinet",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-910632",
+      "published_date": "2026-10-05T12:11:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From North to South: Israel bows its head in remembrance of October 7 massacre",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-910604",
+      "published_date": "2026-10-05T08:51:06+00:00",
+      "category": "Military"
+    }
+  ],
+  "Energy": [],
+  "Economy": [],
+  "Local Events": [
+    {
+      "title": "Jewish contingent marches separately on 90th anniversary of the Battle of Cable Street",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-910684",
+      "published_date": "2026-10-05T18:27:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Alive and kicking’: Al-Qaeda still holds sway in Arabian Peninsula, Israeli expert tells 'Post'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-910667",
+      "published_date": "2026-10-05T16:46:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "New Zealand police probes flydubai hijacker's time spent in island country - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/islamic-terrorism/article-910656",
+      "published_date": "2026-10-05T14:12:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli lecturer indicted for planning mass terror attack against Palestinians, Arab Israelis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-910629",
+      "published_date": "2026-10-05T11:45:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Flydubai hijacker researched airlines, planned killing pilot, crash into Tel Aviv skyscraper",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/islamic-terrorism/article-910544",
+      "published_date": "2026-10-04T16:21:31+00:00",
+      "category": "Local Events"
+    }
+  ]
+}
