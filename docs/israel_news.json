@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "'Not yet out of danger': Israeli envoy to US shares update on son following terror attack",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-910973",
+      "published_date": "2026-10-08T00:09:46+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "More than a safe haven: Jewish schools after Oct. 7",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/culture/article-910911",
@@ -44,6 +51,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "‘Closing the circle’: October 7 victim Elitzur Hajbi laid to rest three years after massacre",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-910975",
+      "published_date": "2026-10-08T01:18:03+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'False political propaganda': Netanyahu, Likud denounce Channel 12's October 7 anniversary coverage",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-910965",
+      "published_date": "2026-10-07T21:39:00+00:00",
+      "category": "Military"
+    },
     {
       "title": "Oct. 7 Gaza Envelope bomb shelters designated antiquities as safeguard against 'clean up' projects",
       "source": "The Jerusalem Post",
@@ -169,20 +190,6 @@
       "url": "https://www.jpost.com/middle-east/article-910815",
       "published_date": "2026-10-06T17:33:13+00:00",
       "category": "Military"
-    },
-    {
-      "title": "IDF expected to resume draft evader operations as High Court deadline approaches",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-910810",
-      "published_date": "2026-10-06T17:10:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Opposing Israel's defense establishment, Katz threatens all-out war on Palestinian Authority",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-910780",
-      "published_date": "2026-10-06T14:54:26+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -204,6 +211,34 @@
   ],
   "Local Events": [
     {
+      "title": "Protesters overrun Israeli peace vigil marking October 7 attended by Mamdani",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-910983",
+      "published_date": "2026-10-08T02:39:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In war-torn Kyiv, Elkin-led Israeli delegation confronts familiar threats while marking Babyn Yar",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-910968",
+      "published_date": "2026-10-07T21:18:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mamdani couldn't dedicate one day to mourning murdered Jews without turning to Israel - comment",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-910967",
+      "published_date": "2026-10-07T21:06:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WATCH: Families of Oct. 7 massacre victims mark three years since attack with Tel Aviv ceremony",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-910963",
+      "published_date": "2026-10-07T20:30:02+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Israel is not Netanyahu: The Jewish case against political idolization - opinion",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/opinion/article-910926",
@@ -215,6 +250,13 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-910916",
       "published_date": "2026-10-07T17:36:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump speaks with Netanyahu in solidarity of October 7, as world leaders share condolences",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-910892",
+      "published_date": "2026-10-07T14:36:25+00:00",
       "category": "Local Events"
     },
     {
@@ -306,41 +348,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/diaspora/antisemitism/article-910732",
       "published_date": "2026-10-06T05:02:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former hostage Emily Damari calls out denial, distortion of October 7, thanks British supporters",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-910722",
-      "published_date": "2026-10-06T01:28:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Twisted Torah': Israeli leaders criticize Rabbi Lando anti-Zionist views",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-910708",
-      "published_date": "2026-10-05T22:23:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shin Bet takes active role in interrogation of flydubai hijacker in UAE",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-910702",
-      "published_date": "2026-10-05T21:05:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Joint List calls for Jewish-Arab support to oust Netanyahu, bring 'peace between Israel, Palestine'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-910700",
-      "published_date": "2026-10-05T20:53:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewish contingent marches separately on 90th anniversary of the Battle of Cable Street",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-910684",
-      "published_date": "2026-10-05T18:27:17+00:00",
       "category": "Local Events"
     }
   ]
