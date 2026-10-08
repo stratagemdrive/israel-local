@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "As UK consulate closes, Sa'ar vows Israel will enact consequences on hostile countries - exclusive",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911092",
+      "published_date": "2026-10-08T18:37:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel, UK agree to keep east Jerusalem consulate open as limited diplomatic mission",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-910988",
+      "published_date": "2026-10-08T07:26:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "'Not yet out of danger': Israeli envoy to US shares update on son following terror attack",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-910973",
@@ -41,16 +55,72 @@
       "url": "https://www.jpost.com/diaspora/antisemitism/article-910677",
       "published_date": "2026-10-05T17:17:35+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Who will teach the next generation?",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-910208",
-      "published_date": "2026-10-01T12:29:23+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "IDF kills Hamas commander who held several former Israeli hostages in Gaza City strikes",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911096",
+      "published_date": "2026-10-08T19:44:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel's defense ministry opens first ever pavilion at Marrakech Airshow 2026",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911093",
+      "published_date": "2026-10-08T18:51:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel assassinated Iran's navy chief over fears he could lead a more dangerous IRGC - exclusive",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911089",
+      "published_date": "2026-10-08T18:33:58+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Houthis abduct, indoctrinate kids to believe they are fighting Jews, Yemeni journalist tells 'Post'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-911090",
+      "published_date": "2026-10-08T18:17:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel Katz orders administrative removal of left-wing activists ahead of West Bank olive harvest",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911081",
+      "published_date": "2026-10-08T16:58:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "From Athens to Jerusalem: Why Israel should heed the warnings of ancient Greek history - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911064",
+      "published_date": "2026-10-08T15:33:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hamas used double agents, deception to fool Israel ahead of October 7 massacre, study finds",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911050",
+      "published_date": "2026-10-08T14:24:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran targeting US military bases in Germany, weeks after Israel warned partners - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911035",
+      "published_date": "2026-10-08T13:12:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Haredi demonstrator dragged by vehicle as mass anti-draft protests erupt across central Israel",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911018",
+      "published_date": "2026-10-08T11:27:09+00:00",
+      "category": "Military"
+    },
     {
       "title": "‘Closing the circle’: October 7 victim Elitzur Hajbi laid to rest three years after massacre",
       "source": "The Jerusalem Post",
@@ -127,73 +197,17 @@
       "url": "https://www.jpost.com/israel-news/article-910852",
       "published_date": "2026-10-07T02:56:05+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Satellite images show renewed activity at secret Iran nuclear site bombed by IDF",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-910846",
-      "published_date": "2026-10-07T01:07:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel's fourth founding: When the state proved it alone could not keep Israelis safe - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-910776",
-      "published_date": "2026-10-06T22:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Three years without my Asaf': Mother of soldier killed on Oct. 7 pleads for truth - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-910764",
-      "published_date": "2026-10-06T21:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Three years after October 7, is the IDF ready to stop another invasion? - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-910792",
-      "published_date": "2026-10-06T19:03:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nearly half of Israelis equally blame government, IDF for October 7 failures, poll finds",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-910818",
-      "published_date": "2026-10-06T18:57:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu: Hamas will try to influence election with terror attacks, Israel is prepared",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-910823",
-      "published_date": "2026-10-06T18:48:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "October 7, three years on, from the perspective of an army medic who refuses to lose hope - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-910624",
-      "published_date": "2026-10-06T18:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NSC warns Israelis, Diaspora Jews about heightened antisemitism, terror threats ahead of Oct. 7",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-910812",
-      "published_date": "2026-10-06T17:52:31+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Raging desire for revenge’: How does the Arab world remember Hamas’s October 7 invasion?",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-910815",
-      "published_date": "2026-10-06T17:33:13+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
   "Economy": [
+    {
+      "title": "Netanyahu, Smotrich hold conference to rally right-wing voters, excluding Ben-Gvir",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-911094",
+      "published_date": "2026-10-08T18:52:31+00:00",
+      "category": "Economy"
+    },
     {
       "title": "‘There will be no Tel Aviv’: Egyptians threaten Israel following Smotrich Sinai comments",
       "source": "The Jerusalem Post",
@@ -210,6 +224,34 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "US will recognize Palestinian state after Trump's term ends in two years, Liberman claims",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911087",
+      "published_date": "2026-10-08T18:34:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain must reverse Sánchez's anti-Israel policies after snap election, Vox lawmaker says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-911056",
+      "published_date": "2026-10-08T14:53:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boy George announces second concert in Israel dedicated to Nova music festival survivors",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-911030",
+      "published_date": "2026-10-08T12:28:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘Surge’ endures as 38% of American Jews remain engaged in Jewish life after October 7, survey finds",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-910984",
+      "published_date": "2026-10-08T05:59:27+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Protesters overrun Israeli peace vigil marking October 7 attended by Mamdani",
       "source": "The Jerusalem Post",
@@ -320,34 +362,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/diaspora/article-910822",
       "published_date": "2026-10-06T19:04:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli watchdogs demand state inquiry into flight security failures following flydubai attack",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-910820",
-      "published_date": "2026-10-06T18:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Half of British Jews emotionally attached to Israel, up sharply since October 7, JPR study finds",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-910808",
-      "published_date": "2026-10-06T17:21:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel was prepared to down flydubai flight with 166 Israelis onboard during attempted hijacking",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-910749",
-      "published_date": "2026-10-06T10:34:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antisemitic conspiracy theories spread after attempted flydubai hijacking",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-910732",
-      "published_date": "2026-10-06T05:02:56+00:00",
       "category": "Local Events"
     }
   ]
