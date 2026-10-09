@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "US envoy Huckabee's senior advisor allegedly skewed West Bank reports to favor Israel- NYT",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911088",
+      "published_date": "2026-10-08T22:06:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "As UK consulate closes, Sa'ar vows Israel will enact consequences on hostile countries - exclusive",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-911092",
@@ -58,6 +65,41 @@
     }
   ],
   "Military": [
+    {
+      "title": "First US-made Iron Dome interceptors delivered at Arkansas facility in major defense milestone",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/defense-and-tech/article-911131",
+      "published_date": "2026-10-09T04:03:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Zamir says return to war with Iran may postpone Israel election as Pentagon prepares plans - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911125",
+      "published_date": "2026-10-09T02:10:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Nazi, dog. Get out of here!': Ofer Winter confronted by anti-draft haredi protesters in Bnei Brak",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911120",
+      "published_date": "2026-10-09T00:48:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump rules out US strikes on Iran before midterms as US Treasury imposes new sanctions",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-911113",
+      "published_date": "2026-10-08T22:19:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF officer killed in southern Lebanon, three others injured during operation",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911108",
+      "published_date": "2026-10-08T21:21:26+00:00",
+      "category": "Military"
+    },
     {
       "title": "IDF kills Hamas commander who held several former Israeli hostages in Gaza City strikes",
       "source": "The Jerusalem Post",
@@ -162,41 +204,6 @@
       "url": "https://www.jpost.com/opinion/article-910929",
       "published_date": "2026-10-07T19:00:00+00:00",
       "category": "Military"
-    },
-    {
-      "title": "ILF launches dictionary to reclaim 'hijacked' terms related to October 7, Israel-Hamas war",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-910956",
-      "published_date": "2026-10-07T18:59:15+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "British Airways resumes Tel Aviv flights for first time since February",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/business-and-innovation/all-news/article-910946",
-      "published_date": "2026-10-07T18:45:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Mamdani: Suffering did not begin, end on October 7, continued throughout Israel's 'Gaza genocide'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-910939",
-      "published_date": "2026-10-07T17:04:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "‘Today we stand with Israel’: World leaders share condolences on third anniversary of Oct. 7",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-910892",
-      "published_date": "2026-10-07T14:36:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Terror cells forming in Negev Bedouin communities in 'concering phenomenon,' Shin Bet chief warn",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-910852",
-      "published_date": "2026-10-07T02:56:05+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -224,6 +231,20 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Opposition calls on A-G to take legal action against PM, Likud attacks Gil over Oct 7 interview",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911121",
+      "published_date": "2026-10-09T01:17:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US State Department restores Israel to highest anti-trafficking ranking for first time since 2021",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911106",
+      "published_date": "2026-10-08T21:01:31+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "US will recognize Palestinian state after Trump's term ends in two years, Liberman claims",
       "source": "The Jerusalem Post",
@@ -348,20 +369,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-910825",
       "published_date": "2026-10-06T21:00:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israir UAE rescue flight canceled after failure to receive Emirati approval",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-910828",
-      "published_date": "2026-10-06T20:53:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mamdani's $7.4m. antisemitism strategy funds groups critical of Israel, financial filings indicate",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/article-910822",
-      "published_date": "2026-10-06T19:04:39+00:00",
       "category": "Local Events"
     }
   ]
