@@ -73,6 +73,20 @@
   ],
   "Military": [
     {
+      "title": "Hind Rajab Foundation asks ICC to investigate Israeli doctors over alleged Sde Teiman torture",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911212",
+      "published_date": "2026-10-10T09:06:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Gov't honors creators of NAZA, The True Story, that challenges Yuval Abraham's documentary claims",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911208",
+      "published_date": "2026-10-10T07:30:30+00:00",
+      "category": "Military"
+    },
+    {
       "title": "United grounds pilot who praised October 7 massacre after reports of reinstatement - report",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/international/article-911196",
@@ -197,24 +211,25 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-911050",
       "published_date": "2026-10-08T14:24:08+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Iran targeting US military bases in Germany, weeks after Israel warned partners - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-911035",
-      "published_date": "2026-10-08T13:12:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Haredi demonstrator dragged by vehicle as mass anti-draft protests erupt across central Israel",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911018",
-      "published_date": "2026-10-08T11:27:09+00:00",
-      "category": "Military"
     }
   ],
-  "Energy": [],
+  "Energy": [
+    {
+      "title": "US pushed Israel to attack Iran alone in effort to avoid political fallout before midterms - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911224",
+      "published_date": "2026-10-10T16:00:46+00:00",
+      "category": "Energy"
+    }
+  ],
   "Economy": [
+    {
+      "title": "Israelis feel more Middle Eastern as views of Europe sour, study finds",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911006",
+      "published_date": "2026-10-10T07:23:17+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Netanyahu, Smotrich hold conference to rally right-wing voters, excluding Ben-Gvir",
       "source": "The Jerusalem Post",
@@ -238,6 +253,41 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Former Biden official: Netanyahu blocked July 2024 hostage deal, prolonged war by six months",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911231",
+      "published_date": "2026-10-10T17:38:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mark Feuerstein heads to Israel to film new thriller",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-911230",
+      "published_date": "2026-10-10T17:22:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jerusalem Women's Film Festival to spotlight Israeli, international cinema and female filmmakers",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-911229",
+      "published_date": "2026-10-10T17:22:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel Philharmonic Orchestra launches landmark 90th season - preview",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-911227",
+      "published_date": "2026-10-10T17:05:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran retains missile, drone production capabilities despite months of US-Israeli strikes - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911221",
+      "published_date": "2026-10-10T13:50:27+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "New Israeli documentary captures Soroka's fight to save lives on October 7",
       "source": "The Jerusalem Post",
@@ -341,41 +391,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/culture/article-911030",
       "published_date": "2026-10-08T12:28:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Surge’ endures as 38% of American Jews remain engaged in Jewish life after October 7, survey finds",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-910984",
-      "published_date": "2026-10-08T05:59:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters overrun Israeli peace vigil marking October 7 attended by Mamdani",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-910983",
-      "published_date": "2026-10-08T02:39:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In war-torn Kyiv, Elkin-led Israeli delegation confronts familiar threats while marking Babyn Yar",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-910968",
-      "published_date": "2026-10-07T21:18:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mamdani couldn't dedicate one day to mourning murdered Jews without turning to Israel - comment",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-910967",
-      "published_date": "2026-10-07T21:06:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WATCH: Families of Oct. 7 massacre victims mark three years since attack with Tel Aviv ceremony",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-910963",
-      "published_date": "2026-10-07T20:30:02+00:00",
       "category": "Local Events"
     }
   ]
