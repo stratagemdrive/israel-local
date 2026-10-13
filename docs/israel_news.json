@@ -59,6 +59,20 @@
   ],
   "Military": [
     {
+      "title": "Netanyahu must agree to debate Eisenkot as it's only way for voters to get answers - editorial",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911474",
+      "published_date": "2026-10-13T05:55:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF investigates last two interceptors launched in 48 hours against aerial targets in Lebanon",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911481",
+      "published_date": "2026-10-12T22:36:09+00:00",
+      "category": "Military"
+    },
+    {
       "title": "'We won't stop hiking': Upper Galilee council head demands IDF action after tragedy",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-911478",
@@ -183,20 +197,6 @@
       "url": "https://www.jpost.com/opinion/article-911080",
       "published_date": "2026-10-10T18:53:49+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Hind Rajab Foundation asks ICC to investigate Israeli doctors over alleged Sde Teiman torture",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911212",
-      "published_date": "2026-10-10T09:06:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Gov't honors creators of NAZA, The True Story, that challenges Yuval Abraham's documentary claims",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911208",
-      "published_date": "2026-10-10T07:30:30+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -260,6 +260,34 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Hasan Piker calls protesters who heckled Mamdani at Oct. 7 vigil ‘opportunists’",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-911494",
+      "published_date": "2026-10-13T05:25:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four dogs, two parrots rescued from Hadera house fire, Israel Fire and Rescue announces",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911490",
+      "published_date": "2026-10-13T02:40:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Herzog calls Nobel Peace Prize winner choice affront to peace-loving people at Medal of Honor award",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911487",
+      "published_date": "2026-10-13T01:40:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ethiopian Airlines flight turned away from Israel after pilot revealed to be Indonesian - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911485",
+      "published_date": "2026-10-13T01:00:07+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "First women on ultra-Orthodox party slate running for Knesset seek change - interview",
       "source": "The Jerusalem Post",
@@ -370,34 +398,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/opinion/article-911298",
       "published_date": "2026-10-11T18:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'I didn't plan it': Israeli flydubai survivor goes viral for striking Trump's iconic pose",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911333",
-      "published_date": "2026-10-11T16:58:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli women demand more than election promises as parties face pressure over equality",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911321",
-      "published_date": "2026-10-11T16:04:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot leads Netanyahu, but both blocs without clear path to 61-seat majority - poll",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911262",
-      "published_date": "2026-10-11T08:42:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu calls Nobel laureate Navi Pillay a 'bigot' after prize win",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911248",
-      "published_date": "2026-10-10T22:50:16+00:00",
       "category": "Local Events"
     }
   ]
