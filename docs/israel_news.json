@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "Iran's 'soft war': How Tehran turned antisemitism into a weapon against the West",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-911698",
+      "published_date": "2026-10-14T17:00:56+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Colombia inaugurates new embassy in Jerusalem in reversal from previous break with Israel",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911671",
+      "published_date": "2026-10-14T13:53:42+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu on October 7: Nobody told Bush to 'go home' after September 11 attacks",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911667",
+      "published_date": "2026-10-14T13:27:39+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Kuwait, Lebanon, Syria leading options for Abraham Accords expansion, CSA report assesses",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/abraham-accords/article-911306",
@@ -48,16 +69,44 @@
       "url": "https://www.jpost.com/israel-news/article-910973",
       "published_date": "2026-10-08T00:09:46+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "More than a safe haven: Jewish schools after Oct. 7",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-910911",
-      "published_date": "2026-10-07T14:08:46+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Israeli judoka Hershko dedicates her bronze medal to soldier who fell on Oct. 7",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911696",
+      "published_date": "2026-10-14T16:38:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dublin hotel cancels 70 rooms booked for antisemitism conference delegates",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-911693",
+      "published_date": "2026-10-14T16:00:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ronen Bar files NIS 3 million defamation lawsuit against Netanyahu over shifting Oct. 7 blame",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911668",
+      "published_date": "2026-10-14T13:41:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF Manpower Directorate head recounts former hostage's story of abuse in Gaza at memorial event",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911663",
+      "published_date": "2026-10-14T13:09:59+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel confirms purchase of 12 Apache 'Echo' helicopters in major Boeing defense deal",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911640",
+      "published_date": "2026-10-14T10:35:13+00:00",
+      "category": "Military"
+    },
     {
       "title": "IDF chief vows to apply October 7 lessons, pledges to pursue Israel's enemies at military ceremony",
       "source": "The Jerusalem Post",
@@ -162,44 +211,16 @@
       "url": "https://www.jpost.com/israel-news/article-911368",
       "published_date": "2026-10-11T22:05:31+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Bennett not ruling out possibility of Netanyahu serving as gov't minister under his leadership",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911349",
-      "published_date": "2026-10-11T18:54:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF: Hamas using northern Gaza hospital as operational center, medical staff as human shields",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-911345",
-      "published_date": "2026-10-11T18:01:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu's government is stalling Trump's Gaza plan, US general warns",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-911341",
-      "published_date": "2026-10-11T17:29:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How Israel's pager operation shattered Nasrallah’s aura of invincibility - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-911067",
-      "published_date": "2026-10-11T15:30:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hackers use security cameras to track troops, military targets in Israel, Ukraine - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/islamic-terrorism/article-911309",
-      "published_date": "2026-10-11T14:45:11+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
+    {
+      "title": "Three seriously injured in suspected gas cylinder explosion at Intel chip plant in southern Israel",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911679",
+      "published_date": "2026-10-14T14:41:22+00:00",
+      "category": "Energy"
+    },
     {
       "title": "The world’s distorted view of Israel is built on persistent myths - opinion",
       "source": "The Jerusalem Post",
@@ -257,16 +278,65 @@
       "url": "https://www.jpost.com/conferences/article-910930",
       "published_date": "2026-10-07T15:47:56+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "‘There will be no Tel Aviv’: Egyptians threaten Israel following Smotrich Sinai comments",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-910910",
-      "published_date": "2026-10-07T13:51:37+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Child, 10, killed after dumpster fire triggers explosion in Beitar Illit",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911701",
+      "published_date": "2026-10-14T17:22:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel Allies Foundation launches parliamentary caucuses in Greece, Cyprus to build trilateral ties",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911691",
+      "published_date": "2026-10-14T16:08:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu strikes back at ex-Shin Bet chief Ronen Bar over Oct. 7 contact claims in lawsuit",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911689",
+      "published_date": "2026-10-14T15:49:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UK Green Party gambling on anti-Israel politics, former deputy leader warns 'Post' - exclusive",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-911687",
+      "published_date": "2026-10-14T15:28:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Known criminal serving as police agent aids in mass arrest of 28 drug traffickers across Israel",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-911673",
+      "published_date": "2026-10-14T14:10:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Are US, Israel racing to deploy space-based lasers or orbital weapons first? - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/defense-and-tech/article-911611",
+      "published_date": "2026-10-14T12:38:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran executes monarchist accused of supporting Israel, Reza Pahlavi",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911654",
+      "published_date": "2026-10-14T12:16:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Saddam Hussein to Israel: How Iran's wars have divided a nation - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911650",
+      "published_date": "2026-10-14T11:44:04+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Netanyahu, Eisenkot blocs struggle to secure majority, raising fears of another election deadlock",
       "source": "The Jerusalem Post",
@@ -349,62 +419,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/diaspora/antisemitism/article-911596",
       "published_date": "2026-10-13T18:32:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Riyadh's dilemma: Can Saudi Arabia stop Houthi attacks without triggering a wider war? - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-911565",
-      "published_date": "2026-10-13T14:17:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How do Israeli elections work? A guide to voting, Knesset seats, and coalitions - explainer",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911522",
-      "published_date": "2026-10-13T10:35:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hasan Piker calls protesters who heckled Mamdani at Oct. 7 vigil ‘opportunists’",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/american-politics/article-911494",
-      "published_date": "2026-10-13T05:25:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Four dogs, two parrots rescued from Hadera house fire, Israel Fire and Rescue announces",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911490",
-      "published_date": "2026-10-13T02:40:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Herzog calls Nobel Peace Prize winner choice affront to peace-loving people at Medal of Honor award",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911487",
-      "published_date": "2026-10-13T01:40:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopian Airlines flight turned away from Israel after pilot revealed to be Indonesian - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-911485",
-      "published_date": "2026-10-13T01:00:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First women on ultra-Orthodox party slate running for Knesset seek change - interview",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911477",
-      "published_date": "2026-10-12T21:58:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Royal Ballet star Natalia Osipova returns to Israel with world premiere by Israeli choreographer",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-911471",
-      "published_date": "2026-10-12T20:29:08+00:00",
       "category": "Local Events"
     }
   ]
