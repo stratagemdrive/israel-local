@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "US Ambassador Mike Huckabee meets with Gadi Eisenkot over West Bank, Gaza, settler violence",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911744",
+      "published_date": "2026-10-15T00:33:31+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Iran's 'soft war': How Tehran turned antisemitism into a weapon against the West",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/diaspora/antisemitism/article-911698",
@@ -62,16 +69,37 @@
       "url": "https://www.jpost.com/israel-news/article-910988",
       "published_date": "2026-10-08T07:26:20+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "'Not yet out of danger': Israeli envoy to US shares update on son following terror attack",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-910973",
-      "published_date": "2026-10-08T00:09:46+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Israel yet to allow Board of Peace first construction contract in Gaza - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-911748",
+      "published_date": "2026-10-15T01:57:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Two haredi protesters arrested after attempting to break into IDF office in Bnei Brak",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911739",
+      "published_date": "2026-10-14T23:24:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Families of American October 7 victims call for US congressional inquiry into massacre",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911736",
+      "published_date": "2026-10-14T23:14:09+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Reservists lose municipal-tax discounts after wartime protection expires, petition says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911726",
+      "published_date": "2026-10-14T21:15:59+00:00",
+      "category": "Military"
+    },
     {
       "title": "Israeli judoka Hershko dedicates her bronze medal to soldier who fell on Oct. 7",
       "source": "The Jerusalem Post",
@@ -183,34 +211,6 @@
       "url": "https://www.jpost.com/israel-news/article-911473",
       "published_date": "2026-10-12T20:57:03+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Iran’s two-front war on Israel: From October 7 to election interference - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-911423",
-      "published_date": "2026-10-12T20:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "One killed, children among 24 injured after unexploded Hezbollah cluster bomb detonates in North",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-911444",
-      "published_date": "2026-10-12T15:12:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two-state solution a 'trap we set for Israel,' Lebanon-based Fatah official brags",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-911419",
-      "published_date": "2026-10-12T12:42:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US-Israel relationship may be irreparably damaged, former Biden official warns",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911368",
-      "published_date": "2026-10-11T22:05:31+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -271,16 +271,37 @@
       "url": "https://www.jpost.com/israel-election-2026/article-911094",
       "published_date": "2026-10-08T18:52:31+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Where global leaders exchange ideas and shape policy",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/conferences/article-910930",
-      "published_date": "2026-10-07T15:47:56+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Passengers of Egyptian aircraft that landed in Israel before October 7 were businessmen - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-911751",
+      "published_date": "2026-10-15T03:57:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "First Israeli ballots cast as diplomats vote abroad from New Zealand to New York",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-911747",
+      "published_date": "2026-10-15T01:53:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "My relative defined ‘genocide,’ honoring him means scrutinizing Pillay’s Israel findings - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911740",
+      "published_date": "2026-10-14T23:38:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump antisemitism official to visit Michigan synagogue weeks before midterms, backed by ZOA",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-911738",
+      "published_date": "2026-10-14T22:45:17+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Child, 10, killed after dumpster fire triggers explosion in Beitar Illit",
       "source": "The Jerusalem Post",
@@ -391,34 +412,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911603",
       "published_date": "2026-10-13T20:12:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Bennett II': Ben-Gvir refuses to sign vote surplus share agreement with Winter's People of Israel",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911592",
-      "published_date": "2026-10-13T20:10:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN adopts Durban resolution despite antisemitic legacy of anti-Zionist declaration",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-911602",
-      "published_date": "2026-10-13T19:52:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In blow to Netanyahu, Trump again stops short of endorsing candidate in Israeli election",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911600",
-      "published_date": "2026-10-13T19:31:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jewish writer barred from London group over Zionist beliefs, UKLFI warns of Equality Act breach",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-911596",
-      "published_date": "2026-10-13T18:32:34+00:00",
       "category": "Local Events"
     }
   ]
