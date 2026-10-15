@@ -1,6 +1,27 @@
 {
   "Diplomacy": [
     {
+      "title": "Iran, Turkey, Kuwait, Pakistan, PA leave Baku conference when Herzog spoke, but Qatari Emir stayed",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-911837",
+      "published_date": "2026-10-15T17:50:14+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netanyahu reveals direct call with Syrian President Sharaa, claims he stopped Druze massacres",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911842",
+      "published_date": "2026-10-15T17:22:23+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Azerbaijan, Bahrain's Baku meetings with President Herzog are important - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911830",
+      "published_date": "2026-10-15T15:49:34+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "US Ambassador Mike Huckabee meets with Gadi Eisenkot over West Bank, Gaza, settler violence",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-911744",
@@ -62,16 +83,51 @@
       "url": "https://www.jpost.com/israel-news/article-911092",
       "published_date": "2026-10-08T18:37:31+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Israel, UK agree to keep east Jerusalem consulate open as limited diplomatic mission",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-910988",
-      "published_date": "2026-10-08T07:26:20+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Wikipedia left biased edits on Israel, Hamas, and Zionism pages intact despite bans, ADL finds",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-911852",
+      "published_date": "2026-10-15T18:04:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Do not test us': Netanyahu touts new 'massive' eastern border wall, defense plans",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911841",
+      "published_date": "2026-10-15T17:56:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Likud seeks Shin Bet review of suspected foreign interference over Eisenkot contacts",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911843",
+      "published_date": "2026-10-15T17:07:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinian farmers petition High Court over three years of blocked access to West Bank land",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911817",
+      "published_date": "2026-10-15T14:45:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Kamala Harris criticizes Biden administration's failure to curb Israel's conduct during Gaza war",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-911807",
+      "published_date": "2026-10-15T14:04:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu vs Bar: Who called who is fascinating, but both ignored writing on the wall - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911788",
+      "published_date": "2026-10-15T12:25:33+00:00",
+      "category": "Military"
+    },
     {
       "title": "Israel yet to allow Board of Peace first construction contract in Gaza - report",
       "source": "The Jerusalem Post",
@@ -169,48 +225,6 @@
       "url": "https://www.jpost.com/israel-election-2026/article-911562",
       "published_date": "2026-10-13T14:28:44+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Pegasus spyware scandal deepens as Poland questions Israeli tech, strengthens ties with Turkey",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/business-and-innovation/article-911543",
-      "published_date": "2026-10-13T12:42:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Elazar Yair Wilensky, 14, identified as victim of Hezbollah ordnance explosion in northern Israel",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911497",
-      "published_date": "2026-10-13T07:29:59+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu must agree to debate Eisenkot as it's only way for voters to get answers - editorial",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-911474",
-      "published_date": "2026-10-13T05:55:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF investigates last two interceptors launched in 48 hours against aerial targets in Lebanon",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-911481",
-      "published_date": "2026-10-12T22:36:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'We won't stop hiking': Upper Galilee council head demands IDF action after tragedy",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911478",
-      "published_date": "2026-10-12T22:07:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu meets with injured children in hospital following Hezbollah ordnance explosion in North",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911473",
-      "published_date": "2026-10-12T20:57:03+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -245,6 +259,13 @@
   ],
   "Economy": [
     {
+      "title": "UTJ’s Pindrus calls gay Knesset Speaker Ohana a 'desecration,' Aguda files ethics complaint",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911831",
+      "published_date": "2026-10-15T16:43:42+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Jewish Agency Chief Almog: Israel can absorb one million new immigrants amid rising antisemitism",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/aliyah/article-911480",
@@ -274,6 +295,34 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Israel 'took the land' from Palestinians, has 'ceded moral ground,' Obama tells Belfast crowd",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-911851",
+      "published_date": "2026-10-15T18:13:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel ended Iran war with more interceptors than it started with, Rafael CEO says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/defense-and-tech/article-911813",
+      "published_date": "2026-10-15T14:21:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Online ads helped deliver Israeli spyware to devices visiting Al Jazeera, 120,000 websites",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911800",
+      "published_date": "2026-10-15T13:27:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why American doctors travel to Israel for Magen David Adom training",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-911769",
+      "published_date": "2026-10-15T10:22:18+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Passengers of Egyptian aircraft that landed in Israel before October 7 were businessmen - report",
       "source": "The Jerusalem Post",
@@ -384,34 +433,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/diaspora/antisemitism/article-911615",
       "published_date": "2026-10-13T22:58:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu, Trump discussed possibility of renewing strikes against Iran before elections - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911609",
-      "published_date": "2026-10-13T21:47:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netherlands 'leading hotbed of antisemitism': Israel condemns Hapoel Be'er Sheva ban",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-911607",
-      "published_date": "2026-10-13T21:22:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Naftali Bennett unveils B’Yachad party plan to cut bureaucracy, boost support for olim - interview",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911604",
-      "published_date": "2026-10-13T20:30:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's security tied to diplomatic standing, 'but not at cost of our fighters,' says Ben-Gvir",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911603",
-      "published_date": "2026-10-13T20:12:41+00:00",
       "category": "Local Events"
     }
   ]
