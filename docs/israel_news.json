@@ -69,23 +69,37 @@
       "url": "https://www.jpost.com/international/article-911163",
       "published_date": "2026-10-09T12:18:57+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "US envoy Huckabee's senior advisor allegedly skewed West Bank reports to favor Israel- NYT",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911088",
-      "published_date": "2026-10-08T22:06:38+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "As UK consulate closes, Sa'ar vows Israel will enact consequences on hostile countries - exclusive",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911092",
-      "published_date": "2026-10-08T18:37:31+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Talarico blames Netanyahu, not Israeli people, for devastation in Gaza",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-911897",
+      "published_date": "2026-10-16T03:12:24+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF, Shin Bet kill two terrorists in Khan Yunis who allegedly smuggled weapons into Gaza",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911889",
+      "published_date": "2026-10-15T23:55:49+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Car ramming reported in West Bank, IDF dispatched to scene",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911887",
+      "published_date": "2026-10-15T22:51:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WATCH: Israel ‘very close’ to creating conditions for regime change in Iran, Netanyahu adviser says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-911874",
+      "published_date": "2026-10-15T21:24:27+00:00",
+      "category": "Military"
+    },
     {
       "title": "Wikipedia left biased edits on Israel, Hamas, and Zionism pages intact despite bans, ADL finds",
       "source": "The Jerusalem Post",
@@ -197,34 +211,6 @@
       "url": "https://www.jpost.com/israel-news/article-911620",
       "published_date": "2026-10-14T02:28:31+00:00",
       "category": "Military"
-    },
-    {
-      "title": "IDF to protect Israel ‘from the river to the sea,’ Netanyahu vows in visit to West Bank seam line",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-911601",
-      "published_date": "2026-10-13T20:39:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "West Bank Palestinian family attacked by masked Jewish rioters claiming to be soldiers - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911579",
-      "published_date": "2026-10-13T20:04:26+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "On This Day: Final living hostages return from Gaza, as Trump addresses Knesset following ceasefire",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/history/article-911580",
-      "published_date": "2026-10-13T17:11:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Focus on Hamas, not me': Winter accuses Netanyahu of prioritizing political survival over security",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911562",
-      "published_date": "2026-10-13T14:28:44+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -259,6 +245,13 @@
   ],
   "Economy": [
     {
+      "title": "Yaron Zelekha slams Netanyahu's economic policy, vows to cut cost of living",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911893",
+      "published_date": "2026-10-16T02:12:33+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "UTJ’s Pindrus calls gay Knesset Speaker Ohana a 'desecration,' Aguda files ethics complaint",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911831",
@@ -285,16 +278,37 @@
       "url": "https://www.jpost.com/israel-news/article-911006",
       "published_date": "2026-10-10T07:23:17+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Netanyahu, Smotrich hold conference to rally right-wing voters, excluding Ben-Gvir",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911094",
-      "published_date": "2026-10-08T18:52:31+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Torah MiTzion marks 30 years of strengthening ties between Israel, Diaspora Jewry",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911894",
+      "published_date": "2026-10-16T02:07:16+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US midterms could reshape support for Israel as anti-Israel sentiment grows among voters",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-911875",
+      "published_date": "2026-10-15T21:25:10+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Genocide accusations against Israel are 'despicable lie,' Knesset Speaker Ohana says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911866",
+      "published_date": "2026-10-15T20:04:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "He was just a plumber. Then he helped save a plane full of passengers - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911829",
+      "published_date": "2026-10-15T19:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Israel 'took the land' from Palestinians, has 'ceded moral ground,' Obama tells Belfast crowd",
       "source": "The Jerusalem Post",
@@ -405,34 +419,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/iran-news/article-911650",
       "published_date": "2026-10-14T11:44:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu, Eisenkot blocs struggle to secure majority, raising fears of another election deadlock",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911622",
-      "published_date": "2026-10-14T03:42:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eretz Nehederet returns with sharp election satire, Sydney Sweeney, flydubai spoof",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-911621",
-      "published_date": "2026-10-14T03:18:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bomb threat grounds second Delta plane from New York to Tel Aviv in one day",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/islamic-terrorism/article-911618",
-      "published_date": "2026-10-14T00:27:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Somerville, Massachusetts city council moves to enact Israel divestment vote",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-911615",
-      "published_date": "2026-10-13T22:58:38+00:00",
       "category": "Local Events"
     }
   ]
