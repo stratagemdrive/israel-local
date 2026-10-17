@@ -80,6 +80,41 @@
   ],
   "Military": [
     {
+      "title": "Predictions of Gaza’s death toll were wrong - why is no one being held accountable? - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-910868",
+      "published_date": "2026-10-17T16:06:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Britain’s lesson for Israel: The West Bank settlement policy has consequences - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911770",
+      "published_date": "2026-10-17T14:29:55+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF expected to reinforce West Bank presence amid violence surrounding Palestinian olive harvest",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911965",
+      "published_date": "2026-10-17T13:08:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US lawmakers condemn settler violence after Washington Post journalist wounded in West Bank clashes",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911961",
+      "published_date": "2026-10-17T11:04:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'The emotional cost has been unbelievable': How three years of war have changed Israelis - study",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-911838",
+      "published_date": "2026-10-17T08:44:52+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Lawler, Conley battle for Jewish voters in pivotal New York race that could decide House control",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/american-politics/article-911949",
@@ -183,41 +218,6 @@
       "url": "https://www.jpost.com/diaspora/antisemitism/article-911852",
       "published_date": "2026-10-15T18:04:11+00:00",
       "category": "Military"
-    },
-    {
-      "title": "'Do not test us': Netanyahu touts new 'massive' eastern border wall, defense plans",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-911841",
-      "published_date": "2026-10-15T17:56:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Likud seeks Shin Bet review of suspected foreign interference over Eisenkot contacts",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911843",
-      "published_date": "2026-10-15T17:07:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinian farmers petition High Court over three years of blocked access to West Bank land",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911817",
-      "published_date": "2026-10-15T14:45:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Kamala Harris criticizes Biden administration's failure to curb Israel's conduct during Gaza war",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-911807",
-      "published_date": "2026-10-15T14:04:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu vs Bar: Who called who is fascinating, but both ignored writing on the wall - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-911788",
-      "published_date": "2026-10-15T12:25:33+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -292,16 +292,16 @@
       "url": "https://www.jpost.com/israel-news/article-911455",
       "published_date": "2026-10-12T17:04:44+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Israelis feel more Middle Eastern as views of Europe sour, study finds",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911006",
-      "published_date": "2026-10-10T07:23:17+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "The gate of Eden: In Israel’s Valley of Springs, ancient history offers a new journey of healing",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/travel/article-911785",
+      "published_date": "2026-10-17T10:25:24+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Norwegian teen jailed for 20 years in UK for Iran-linked murder plot after being recruited online",
       "source": "The Jerusalem Post",
@@ -433,13 +433,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/culture/article-911769",
       "published_date": "2026-10-15T10:22:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Passengers of Egyptian aircraft that landed in Israel before October 7 were businessmen - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-911751",
-      "published_date": "2026-10-15T03:57:08+00:00",
       "category": "Local Events"
     }
   ]
