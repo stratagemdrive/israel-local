@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Colombia deepens ties with Israel, considers Holocaust alliance membership after embassy opening",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911942",
+      "published_date": "2026-10-17T00:41:20+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Middle Israel: From Caesar to Netanyahu, Israel prepares to enter a post-charisma era - opinion",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/opinion/article-911881",
@@ -73,6 +80,20 @@
   ],
   "Military": [
     {
+      "title": "Lawler, Conley battle for Jewish voters in pivotal New York race that could decide House control",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-911949",
+      "published_date": "2026-10-17T03:20:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF destroys dozens of monuments honoring terrorists during West Bank counterterror operations",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-911945",
+      "published_date": "2026-10-17T02:59:39+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Italy investigating Katz, other senior officials over alleged torture of Gaza flotilla activists",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-911931",
@@ -91,6 +112,13 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-911928",
       "published_date": "2026-10-16T16:27:22+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Is Israel fighting the wrong war? - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911796",
+      "published_date": "2026-10-16T15:02:18+00:00",
       "category": "Military"
     },
     {
@@ -190,27 +218,6 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-911788",
       "published_date": "2026-10-15T12:25:33+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Israel yet to allow Board of Peace first construction contract in Gaza - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-911748",
-      "published_date": "2026-10-15T01:57:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Two haredi protesters arrested after attempting to break into IDF office in Bnei Brak",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911739",
-      "published_date": "2026-10-14T23:24:17+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Families of American October 7 victims call for US congressional inquiry into massacre",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911736",
-      "published_date": "2026-10-14T23:14:09+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -252,6 +259,13 @@
   ],
   "Economy": [
     {
+      "title": "Israel risks winning the war while losing the world - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911812",
+      "published_date": "2026-10-16T23:49:17+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Yaron Zelekha slams Netanyahu's economic policy, vows to cut cost of living",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-911893",
@@ -288,6 +302,41 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Norwegian teen jailed for 20 years in UK for Iran-linked murder plot after being recruited online",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-911948",
+      "published_date": "2026-10-17T03:14:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ex-Shin Bet chief warns Netanyahu could deliberately escalate tensions ahead of elections",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-911944",
+      "published_date": "2026-10-17T01:58:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sukkot in Florida offers an Israeli family joy, community, and a reminder of war - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911776",
+      "published_date": "2026-10-17T01:50:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Did Netanyahu’s phone call with Sharaa change Israeli-Syrian relations? - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-911941",
+      "published_date": "2026-10-17T00:37:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Sad we are fighting in public': Ex-Shin Bet deputy director demands full October 7 inquiry",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911938",
+      "published_date": "2026-10-16T22:38:46+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "'This is our homeland': Netanyahu responds to Obama accusations that Israel stole Palestinian land",
       "source": "The Jerusalem Post",
@@ -391,41 +440,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/article-911751",
       "published_date": "2026-10-15T03:57:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Israeli ballots cast as diplomats vote abroad from New Zealand to New York",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911747",
-      "published_date": "2026-10-15T01:53:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "My relative defined ‘genocide,’ honoring him means scrutinizing Pillay’s Israel findings - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-911740",
-      "published_date": "2026-10-14T23:38:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump antisemitism official to visit Michigan synagogue weeks before midterms, backed by ZOA",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/american-politics/article-911738",
-      "published_date": "2026-10-14T22:45:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Child, 10, killed after dumpster fire triggers explosion in Beitar Illit",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911701",
-      "published_date": "2026-10-14T17:22:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel Allies Foundation launches parliamentary caucuses in Greece, Cyprus to build trilateral ties",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911691",
-      "published_date": "2026-10-14T16:08:44+00:00",
       "category": "Local Events"
     }
   ]
