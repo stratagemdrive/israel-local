@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Huckabee condemns 'despicable' attack on photojournalist Heidi Levine in West Bank, demands arrests",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911990",
+      "published_date": "2026-10-17T23:30:18+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Colombia deepens ties with Israel, considers Holocaust alliance membership after embassy opening",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-911942",
@@ -79,6 +86,27 @@
     }
   ],
   "Military": [
+    {
+      "title": "Netanyahu warns of 'campaign to smear Israel' after European diplomats attacked in West Bank",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911982",
+      "published_date": "2026-10-17T20:11:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Washington Post photojournalist undergoes surgery after settler attack, demands arrests - interview",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-911976",
+      "published_date": "2026-10-17T18:12:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "For Israel, Greece is more than a friend - it is a strategic partner - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911808",
+      "published_date": "2026-10-17T17:27:32+00:00",
+      "category": "Military"
+    },
     {
       "title": "Predictions of Gaza’s death toll were wrong - why is no one being held accountable? - opinion",
       "source": "The Jerusalem Post",
@@ -197,27 +225,6 @@
       "url": "https://www.jpost.com/israel-news/article-911889",
       "published_date": "2026-10-15T23:55:49+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Car ramming reported in West Bank, IDF dispatched to scene",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911887",
-      "published_date": "2026-10-15T22:51:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WATCH: Israel ‘very close’ to creating conditions for regime change in Iran, Netanyahu adviser says",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-911874",
-      "published_date": "2026-10-15T21:24:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Wikipedia left biased edits on Israel, Hamas, and Zionism pages intact despite bans, ADL finds",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-911852",
-      "published_date": "2026-10-15T18:04:11+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -247,13 +254,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/iran-news/article-911555",
       "published_date": "2026-10-13T13:31:56+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "US pushed Israel to attack Iran alone in effort to avoid political fallout before midterms - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-911224",
-      "published_date": "2026-10-10T16:00:46+00:00",
       "category": "Energy"
     }
   ],
@@ -295,6 +295,41 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Israeli TV host calls Gadi Eisenkot a 'monkey', alleges behind-the-scenes control",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-911994",
+      "published_date": "2026-10-18T01:37:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Western leaders back a two-state solution, but do Palestinians even want one? - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911411",
+      "published_date": "2026-10-18T01:09:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Democrats say Netanyahu is the problem - but their opposition to Israel runs deeper - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911541",
+      "published_date": "2026-10-18T01:03:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel must treat the media war as seriously as Iran’s nuclear threat, Gil Hoffman says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-911877",
+      "published_date": "2026-10-17T18:40:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "The problem with Israel’s hasbara is what it refuses to say - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911810",
+      "published_date": "2026-10-17T18:40:26+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The gate of Eden: In Israel’s Valley of Springs, ancient history offers a new journey of healing",
       "source": "The Jerusalem Post",
@@ -398,41 +433,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-911866",
       "published_date": "2026-10-15T20:04:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "He was just a plumber. Then he helped save a plane full of passengers - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-911829",
-      "published_date": "2026-10-15T19:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel 'took the land' from Palestinians, has 'ceded moral ground,' Obama tells Belfast crowd",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-911851",
-      "published_date": "2026-10-15T18:13:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel ended Iran war with more interceptors than it started with, Rafael CEO says",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/defense-and-tech/article-911813",
-      "published_date": "2026-10-15T14:21:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Online ads helped deliver Israeli spyware to devices visiting Al Jazeera, 120,000 websites",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911800",
-      "published_date": "2026-10-15T13:27:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why American doctors travel to Israel for Magen David Adom training",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-911769",
-      "published_date": "2026-10-15T10:22:18+00:00",
       "category": "Local Events"
     }
   ]
