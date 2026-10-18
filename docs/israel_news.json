@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Who is Rebeca Grynspan, the Jewish frontrunner to lead the UN - and what is her Israel stance?",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-912062",
+      "published_date": "2026-10-18T16:02:21+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's IRGC exploits women through sex trafficking, uses children to fund proxy wars, report finds",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-912058",
+      "published_date": "2026-10-18T15:39:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Huckabee condemns 'despicable' attack on photojournalist Heidi Levine in West Bank, demands arrests",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-911990",
@@ -69,23 +83,58 @@
       "url": "https://www.jpost.com/israel-news/article-911667",
       "published_date": "2026-10-14T13:27:39+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Kuwait, Lebanon, Syria leading options for Abraham Accords expansion, CSA report assesses",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/abraham-accords/article-911306",
-      "published_date": "2026-10-11T14:13:32+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "'Horrific terrorist attack': Netanyahu, world leaders condemn Houthi attack on Riyadh airport",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-911263",
-      "published_date": "2026-10-11T09:25:00+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Bonei Zion Prize honors Olim rebuilding Israel after the war as North American Aliyah hits records",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/aliyah/article-912047",
+      "published_date": "2026-10-18T15:13:15+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "EU condemns West Bank settler attacks targeting diplomats, Palestinians during olive harvest",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912046",
+      "published_date": "2026-10-18T14:41:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How could Israel help Saudi Arabia defend against the Houthis - and at what cost? - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-912048",
+      "published_date": "2026-10-18T14:05:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Settlement expansion, Jewish terror pose severe risk to Israel’s economy, senior economists warn",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912034",
+      "published_date": "2026-10-18T13:33:56+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Iran's parliament approves Mehrdad Akhlaghi as defense minister after predecessor killed by Israel",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-912028",
+      "published_date": "2026-10-18T12:24:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "After October 7 and years of war, Iranians and Jews have found a common enemy - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-911557",
+      "published_date": "2026-10-18T12:03:02+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Stun grenades, water cannon deployed to disperse haredi protesters blocking Highway 4 near Yavne",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912013",
+      "published_date": "2026-10-18T10:00:11+00:00",
+      "category": "Military"
+    },
     {
       "title": "Netanyahu warns of 'campaign to smear Israel' after European diplomats attacked in West Bank",
       "source": "The Jerusalem Post",
@@ -176,55 +225,6 @@
       "url": "https://www.jpost.com/israel-news/article-911928",
       "published_date": "2026-10-16T16:27:22+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Is Israel fighting the wrong war? - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-911796",
-      "published_date": "2026-10-16T15:02:18+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UK expands sanction powers, enabling action against companies supporting West Bank settlements",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-911918",
-      "published_date": "2026-10-16T12:37:51+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Egypt will never pose a threat': Netanyahu questioned Egypt's military expansion, Sisi says",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-911917",
-      "published_date": "2026-10-16T12:25:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Washington Post photojournalist wounded in clash between Israelis, Palestinians in West Bank",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-911911",
-      "published_date": "2026-10-16T11:06:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Talarico blames Netanyahu, not Israeli people, for devastation in Gaza",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/american-politics/article-911897",
-      "published_date": "2026-10-16T03:12:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ben-Gvir plans to change IDF ethics code, emphasize 'Jewish values,' if named defense minister",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911890",
-      "published_date": "2026-10-16T00:55:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF, Shin Bet kill two terrorists in Khan Yunis who allegedly smuggled weapons into Gaza",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911889",
-      "published_date": "2026-10-15T23:55:49+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -258,6 +258,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Israeli court orders charity officials to repay NIS 1.85 million over diverted cancer donation",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912057",
+      "published_date": "2026-10-18T15:13:31+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Israel risks winning the war while losing the world - opinion",
       "source": "The Jerusalem Post",
@@ -295,6 +302,48 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Israeli man killed in motorcycle accident in southern Thailand, Foreign Ministry confirms",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912066",
+      "published_date": "2026-10-18T16:22:51+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tomer Caspi, Tomer Zaltzman crowned Winner Epic Israel bike race champs in Western Galilee",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/sports/article-912060",
+      "published_date": "2026-10-18T16:09:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mamdani, Paris already knows where 'globalize the intifada' ends up - comment",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-912063",
+      "published_date": "2026-10-18T15:55:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli patients' blood samples allegedly taken without consent for research, hospital says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912050",
+      "published_date": "2026-10-18T14:26:22+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu: Magal's 'monkey' remark on Eisenkot inappropriate, but Likud voters face daily insults",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912030",
+      "published_date": "2026-10-18T12:45:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'You are the real target': Netanyahu warns Iran developing ICBMs, nuclear weapons to target US",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912021",
+      "published_date": "2026-10-18T11:26:24+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Israeli TV host calls Gadi Eisenkot a 'monkey', alleges behind-the-scenes control",
       "source": "The Jerusalem Post",
@@ -391,48 +440,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-911910",
       "published_date": "2026-10-16T13:27:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The battle for Israel: As Netanyahu rallies the Right, Eisenkot makes his move for power",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911882",
-      "published_date": "2026-10-16T12:46:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shabbat candle lighting times for Israel and US",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/judaism/article-911912",
-      "published_date": "2026-10-16T11:58:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "You don't need psychic powers to see Obama is an 'antisemitism superspreader' - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-911908",
-      "published_date": "2026-10-16T09:43:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Torah MiTzion marks 30 years of strengthening ties between Israel, Diaspora Jewry",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911894",
-      "published_date": "2026-10-16T02:07:16+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US midterms could reshape support for Israel as anti-Israel sentiment grows among voters",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/american-politics/article-911875",
-      "published_date": "2026-10-15T21:25:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Genocide accusations against Israel are 'despicable lie,' Knesset Speaker Ohana says",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911866",
-      "published_date": "2026-10-15T20:04:19+00:00",
       "category": "Local Events"
     }
   ]
