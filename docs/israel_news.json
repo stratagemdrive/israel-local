@@ -87,6 +87,27 @@
   ],
   "Military": [
     {
+      "title": "IDF dismantles illegal West Bank outposts amid rise in nationalist violence",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912108",
+      "published_date": "2026-10-19T01:17:53+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel urged Qatar to continue Gaza funding despite public criticism, documents reveal",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912105",
+      "published_date": "2026-10-18T23:53:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Vienna flight from Tel Aviv diverted to Bulgaria over bomb threat",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-912100",
+      "published_date": "2026-10-18T22:05:15+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Bonei Zion Prize honors Olim rebuilding Israel after the war as North American Aliyah hits records",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/aliyah/article-912047",
@@ -204,27 +225,6 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-911945",
       "published_date": "2026-10-17T02:59:39+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Italy investigating Katz, other senior officials over alleged torture of Gaza flotilla activists",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911931",
-      "published_date": "2026-10-16T17:47:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF kills Hamas Nukhba commander in Gaza who infiltrated Re'im base on October 7",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-911929",
-      "published_date": "2026-10-16T17:17:35+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UN says Gaza malnutrition gains fragile as Israel halts commercial shipments",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911928",
-      "published_date": "2026-10-16T16:27:22+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -258,6 +258,13 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Polymarket bets favor Eisenkot over Netanyahu ahead of Israeli election",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912111",
+      "published_date": "2026-10-19T03:26:44+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Israeli court orders charity officials to repay NIS 1.85 million over diverted cancer donation",
       "source": "The Jerusalem Post",
@@ -303,6 +310,27 @@
   ],
   "Local Events": [
     {
+      "title": "Israeli national wanted in $16.7 million Dubai fraud case arrested in Colombia",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912109",
+      "published_date": "2026-10-19T01:18:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watchdog tracks over 1,300 posts blaming Jews, Israel for France riots",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-912107",
+      "published_date": "2026-10-19T00:56:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu: Russia aiding Iran's antisemitic bot networks, acting against Israeli interests",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-912079",
+      "published_date": "2026-10-18T17:59:45+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Israeli man killed in motorcycle accident in southern Thailand, Foreign Ministry confirms",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-912066",
@@ -317,7 +345,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Mamdani, Paris already knows where 'globalize the intifada' ends up - comment",
+      "title": "Mamdani, Paris already knows where 'globalize the Intifada' ends up - comment",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/opinion/article-912063",
       "published_date": "2026-10-18T15:55:27+00:00",
@@ -342,6 +370,13 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912021",
       "published_date": "2026-10-18T11:26:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot leads Netanyahu in four polls, but neither bloc secures Knesset majority - poll",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912004",
+      "published_date": "2026-10-18T08:16:31+00:00",
       "category": "Local Events"
     },
     {
@@ -412,34 +447,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/article-911941",
       "published_date": "2026-10-17T00:37:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Sad we are fighting in public': Ex-Shin Bet deputy director demands full October 7 inquiry",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911938",
-      "published_date": "2026-10-16T22:38:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'This is our homeland': Netanyahu responds to Obama accusations that Israel stole Palestinian land",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911927",
-      "published_date": "2026-10-16T15:50:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hillel rabbi in Georgia's Emory fired over fiance's Israel criticism, pro-Palestinian posts",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/article-911914",
-      "published_date": "2026-10-16T13:58:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel picks between 'secular democracy or theocracy' in election, chess master Garry Kasparov says",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-911910",
-      "published_date": "2026-10-16T13:27:27+00:00",
       "category": "Local Events"
     }
   ]
