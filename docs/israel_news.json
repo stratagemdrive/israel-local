@@ -62,23 +62,44 @@
       "url": "https://www.jpost.com/israel-news/article-911830",
       "published_date": "2026-10-15T15:49:34+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "US Ambassador Mike Huckabee meets with Gadi Eisenkot over West Bank, Gaza, settler violence",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911744",
-      "published_date": "2026-10-15T00:33:31+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran's 'soft war': How Tehran turned antisemitism into a weapon against the West",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-911698",
-      "published_date": "2026-10-14T17:00:56+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "US, Israel have detailed plans for renewed Iran strikes focusing on short, intense attacks - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-912476",
+      "published_date": "2026-10-22T03:18:33+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah rebuilding military capabilities in Beirut as IDF prepares for possible renewed fighting",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-912470",
+      "published_date": "2026-10-22T00:53:17+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Dozens of IAF jets, refueling aircraft flew 'as far as Iran border' in practice sortie - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-912463",
+      "published_date": "2026-10-21T21:52:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Mamdani calls for end to Israeli 'occupation, genocide' after IDF detains volunteers in West Bank",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912458",
+      "published_date": "2026-10-21T20:10:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu orders Iranian regime's downfall, Katz warns 'Iran will burn' at IDF cadets' graduation",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-912445",
+      "published_date": "2026-10-21T18:26:51+00:00",
+      "category": "Military"
+    },
     {
       "title": "Smotrich presses Ofer Winter to drop Knesset run in exchange for Defense Ministry appointment",
       "source": "The Jerusalem Post",
@@ -183,41 +204,6 @@
       "url": "https://www.jpost.com/middle-east/iran-news/article-912290",
       "published_date": "2026-10-20T14:18:22+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Australian politician targeted in car ramming attack was friend of suspect's family",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-912285",
-      "published_date": "2026-10-20T14:07:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF detains 42 Chabad Hassidic draft evaders arriving from New York at Ben-Gurion Airport",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912254",
-      "published_date": "2026-10-20T09:58:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel Air Force welcomes Apache helicopter deal amid bureaucratic delays",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912221",
-      "published_date": "2026-10-20T02:50:52+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu, Hegseth hold covert meeting at Israel's Ovda air base days before Israel's election",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912217",
-      "published_date": "2026-10-20T01:48:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "NGO behind pro-Israel West Bank tour condemns attempted lynching by Palestinians",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912215",
-      "published_date": "2026-10-20T01:19:08+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -288,6 +274,55 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Israeli designer Arik Weiss discusses contribution to Marvel’s ‘Spider-Noir’ series",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-912477",
+      "published_date": "2026-10-22T03:41:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vance downplays choice not to support Netanyahu, says won't endorse 'any more foreign candidates'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912474",
+      "published_date": "2026-10-22T02:26:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nathan Fielder's Elizabeth Holmes documentary ‘You Can See Everything’ coming to Israel",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-912473",
+      "published_date": "2026-10-22T01:52:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "AIPAC to stop officially endorsing US political candidates following criticism",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-912469",
+      "published_date": "2026-10-22T00:12:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shin Bet's Zini meets with French intelligence officials after Paris riots",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912468",
+      "published_date": "2026-10-21T23:58:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police rescue toddler from locked car in Yavne after mother makes emergency call from Tel Aviv",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912420",
+      "published_date": "2026-10-21T20:50:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Netanyahu is making the Iranian regime’s overthrow a personal promise - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912452",
+      "published_date": "2026-10-21T19:07:43+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Iran's Baloch minority want Israeli strikes to continue until regime falls, activist tells 'Post'",
       "source": "The Jerusalem Post",
@@ -377,55 +412,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/american-politics/article-912231",
       "published_date": "2026-10-20T06:38:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Qatargate suspect Urich continued boosting Doha’s PR image after Oct. 7 massacre - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912212",
-      "published_date": "2026-10-20T00:10:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austria recorded 671 antisemitic incidents in first half of 2026, majority tied to anti-Israel acts",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-912177",
-      "published_date": "2026-10-19T18:36:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "European Jewish leaders warn Knesset election could trigger new EU sanctions, surge in antisemitism",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-912176",
-      "published_date": "2026-10-19T17:39:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopia’s forever wars are lesson for Iran - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912123",
-      "published_date": "2026-10-19T17:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Terrorist in Istanbul!' Pro-Palestinian mob attacks Israeli-Turkish citizen Kloyda Medina in mall",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-912139",
-      "published_date": "2026-10-19T10:57:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli national wanted in $16.7 million Dubai fraud case arrested in Colombia",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912109",
-      "published_date": "2026-10-19T01:18:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watchdog tracks over 1,300 posts blaming Jews, Israel for France riots",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-912107",
-      "published_date": "2026-10-19T00:56:49+00:00",
       "category": "Local Events"
     }
   ]
