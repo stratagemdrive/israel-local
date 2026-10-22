@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Can business save  Israel-Australia relations? Ambassador says there is still hope",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/conferences/article-912508",
+      "published_date": "2026-10-22T10:04:54+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Right 'sounds alarm' over Gantz withdrawal as Left consolidates ahead of elections",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-912178",
@@ -55,18 +62,53 @@
       "url": "https://www.jpost.com/israel-news/article-911842",
       "published_date": "2026-10-15T17:22:23+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Why Azerbaijan, Bahrain's Baku meetings with President Herzog are important - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911830",
-      "published_date": "2026-10-15T15:49:34+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
     {
-      "title": "US, Israel have detailed plans for renewed Iran strikes focusing on short, intense attacks - report",
+      "title": "IDF intelligence aids Saudi Arabia in military operations against Houthis through US mediation",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-912598",
+      "published_date": "2026-10-22T18:12:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel frees from custody almost all suspects in two settler attacks, puts them under house arrest",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912594",
+      "published_date": "2026-10-22T17:22:04+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Hezbollah sends Latin American recruits to Lebanon for training before targeting Jewish communities",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-912562",
+      "published_date": "2026-10-22T14:28:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu, Katz's warnings of Iranian strikes could spur regime into attacking first, officials say",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-912546",
+      "published_date": "2026-10-22T14:05:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu defense challenges Mandelblit over police questioning of key state witness",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912541",
+      "published_date": "2026-10-22T12:29:52+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Like a biblical battle': WP journalist wounded in West Bank credits Palestinian youth with rescue",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-912493",
+      "published_date": "2026-10-22T09:40:35+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US, Israel plan renewed Iran strikes after US midterms, focusing on short, intense attacks - report",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/iran-news/article-912476",
       "published_date": "2026-10-22T03:18:33+00:00",
@@ -162,48 +204,6 @@
       "url": "https://www.jpost.com/american-politics/article-912344",
       "published_date": "2026-10-21T02:00:51+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Hind Rajab Foundation files US complaint against Israeli officer over Gaza girl's death",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/article-912339",
-      "published_date": "2026-10-20T22:59:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel Police says 143 draft evaders were released as IDF failed to meet detention deadlines",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912338",
-      "published_date": "2026-10-20T22:37:53+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF kills Hamas terrorist involved in October 7 abduction of Shani Louk",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912327",
-      "published_date": "2026-10-20T19:28:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli, Lebanese delegations meet at CENTCOM's Tampa headquarters, IDF sources tell 'Post'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-912312",
-      "published_date": "2026-10-20T17:48:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Some came to Israel to serve the Jewish state. Haredim are rewarded for refusing to help - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912138",
-      "published_date": "2026-10-20T16:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "What is Pakistan's army chief doing in Iran as tensions with US escalate? - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-912290",
-      "published_date": "2026-10-20T14:18:22+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -223,6 +223,27 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Hendel to 'Post': Our party may not be the biggest, but it will be most important - interview",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912595",
+      "published_date": "2026-10-22T17:50:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Smotrich says Netanyahu, Ben-Gvir previously backed Knesset coalition with Ra'am that he shut down",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912494",
+      "published_date": "2026-10-22T09:02:20+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "Eisenkot leads Netanyahu as Winter, Hendel-Zelekha may not cross electoral threshold - poll",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912482",
+      "published_date": "2026-10-22T06:04:53+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Bank of Israel holds interest rates steady a week before election",
       "source": "The Jerusalem Post",
@@ -274,6 +295,27 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "WATCH: President Herzog hosts ceremony commemorating 31 years since Rabin's assassination",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-912548",
+      "published_date": "2026-10-22T13:10:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran preparing to reveal 'Father of All Bombs,' IRGC spox. warns in wake of Trump's MOAB threat",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-912509",
+      "published_date": "2026-10-22T10:37:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shin Bet removes social media accounts to block foreign interference in upcoming election",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912497",
+      "published_date": "2026-10-22T09:13:58+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Israeli designer Arik Weiss discusses contribution to Marvel’s ‘Spider-Noir’ series",
       "source": "The Jerusalem Post",
@@ -391,27 +433,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-912291",
       "published_date": "2026-10-20T14:27:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'They returned in coffins': Families of slain hostages call on Netanyahu to drop election slogan",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912265",
-      "published_date": "2026-10-20T11:40:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'I will vote for Liberman,' Netanyahu's ex-NSC head, Likud stalwart Tzachi Hanegbi declares",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912239",
-      "published_date": "2026-10-20T08:39:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Israel is not our friend': Michigan's El-Sayed doubles down on anti-Israel stance",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/american-politics/article-912231",
-      "published_date": "2026-10-20T06:38:35+00:00",
       "category": "Local Events"
     }
   ]
