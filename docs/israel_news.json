@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "US accelerates Middle East diplomatic evacuations as Washington weighs Iran strikes - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-912677",
+      "published_date": "2026-10-24T02:44:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Huckabee questions Board of Peace’s ability to carry out Trump's Gaza peace plan - report",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/article-912630",
@@ -41,16 +48,23 @@
       "url": "https://www.jpost.com/israel-news/article-911990",
       "published_date": "2026-10-17T23:30:18+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Colombia deepens ties with Israel, considers Holocaust alliance membership after embassy opening",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-911942",
-      "published_date": "2026-10-17T00:41:20+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "IDF, Shin Bet launch multi-day West Bank counterterrorism operations after deadly Hamas attack",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-912675",
+      "published_date": "2026-10-24T00:41:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu warns Israel could face banking sanctions, prepares alternative financial system",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-912667",
+      "published_date": "2026-10-23T19:34:25+00:00",
+      "category": "Military"
+    },
     {
       "title": "In Syria, Israel’s female field intelligence soldiers power the IDF's covert operations",
       "source": "The Jerusalem Post",
@@ -176,20 +190,6 @@
       "url": "https://www.jpost.com/middle-east/iran-news/article-912463",
       "published_date": "2026-10-21T21:52:38+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Mamdani calls for end to Israeli 'occupation, genocide' after IDF detains volunteers in West Bank",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912458",
-      "published_date": "2026-10-21T20:10:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu orders Iranian regime's downfall, Katz warns 'Iran will burn' at IDF cadets' graduation",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912445",
-      "published_date": "2026-10-21T18:26:51+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -271,16 +271,51 @@
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912057",
       "published_date": "2026-10-18T15:13:31+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Israel risks winning the war while losing the world - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-911812",
-      "published_date": "2026-10-16T23:49:17+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Prehistoric hunter-gatherers stayed connected across 200 kilometers, Israeli study finds",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/archaeology/article-912654",
+      "published_date": "2026-10-24T02:47:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Without seed capital: Four young Israeli entrepreneurs sell AI startup for millions of shekels",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/article-912661",
+      "published_date": "2026-10-23T23:53:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barack Obama’s Belfast speech was a shameful, distorted rewrite of Israel's history - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-912519",
+      "published_date": "2026-10-23T23:47:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel’s ballot box or Pandora’s box? - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-912496",
+      "published_date": "2026-10-23T20:23:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel’s election campaign lacks substance, fresh leadership, and vision - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-912574",
+      "published_date": "2026-10-23T20:17:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran threatens to sever Gulf internet cables in retaliation if US, Israel renew attacks",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-912668",
+      "published_date": "2026-10-23T20:03:52+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "The long way home: Free after decade in Iraqi prison, Benjamin Hassin begins new life in Jerusalem",
       "source": "The Jerusalem Post",
@@ -377,48 +412,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/culture/article-912473",
       "published_date": "2026-10-22T01:52:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AIPAC to stop officially endorsing US political candidates following criticism",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/american-politics/article-912469",
-      "published_date": "2026-10-22T00:12:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shin Bet's Zini meets with French intelligence officials after Paris riots",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912468",
-      "published_date": "2026-10-21T23:58:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police rescue toddler from locked car in Yavne after mother makes emergency call from Tel Aviv",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912420",
-      "published_date": "2026-10-21T20:50:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Netanyahu is making the Iranian regime’s overthrow a personal promise - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912452",
-      "published_date": "2026-10-21T19:07:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran's Baloch minority want Israeli strikes to continue until regime falls, activist tells 'Post'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-912435",
-      "published_date": "2026-10-21T16:25:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Christiane Amanpour exits CNN with a legacy shaped by the debate over Israel",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-912429",
-      "published_date": "2026-10-21T15:41:01+00:00",
       "category": "Local Events"
     }
   ]
