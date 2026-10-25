@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Druze experts condemn Tom Barrack's accusations against Syrian Druze, warn of sectarian violence",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-912795",
+      "published_date": "2026-10-25T15:51:12+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "US accelerates Middle East diplomatic evacuations as Washington weighs Iran strikes - report",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/iran-news/article-912677",
@@ -44,6 +51,34 @@
     }
   ],
   "Military": [
+    {
+      "title": "Ex-Mossad chief Barnea intended for Iran to see Israel's operations to overwhelm IRGC",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-912809",
+      "published_date": "2026-10-25T16:39:07+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Settler violence is a political blind spot in Israel’s election campaign - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-912576",
+      "published_date": "2026-10-25T15:08:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF pushing for Hebron attack to be classified as clash between soldiers, terrorists, not terror",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-912765",
+      "published_date": "2026-10-25T11:32:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "What the hell is going on with Netanyahu? - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-912759",
+      "published_date": "2026-10-25T10:21:34+00:00",
+      "category": "Military"
+    },
     {
       "title": "Police arrest 23-year-old suspected of attacking one of Bennett's bodyguards in Tel Aviv",
       "source": "The Jerusalem Post",
@@ -155,34 +190,6 @@
       "url": "https://www.jpost.com/israel-news/article-912609",
       "published_date": "2026-10-22T20:39:20+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-912598",
-      "published_date": "2026-10-22T18:12:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel frees from custody almost all suspects in two settler attacks, puts them under house arrest",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912594",
-      "published_date": "2026-10-22T17:22:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Peace absent from Israel's 2026 elections as West Bank tensions continue to rise -analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912582",
-      "published_date": "2026-10-22T16:19:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah sends Latin American recruits to Lebanon for training before targeting Jewish communities",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-912562",
-      "published_date": "2026-10-22T14:28:28+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -195,6 +202,20 @@
     }
   ],
   "Economy": [
+    {
+      "title": "Netanyahu's crypto plan could cause 'irreversible damage' to Israeli economy, business leaders warn",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/article-912781",
+      "published_date": "2026-10-25T12:47:16+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "After Netanyahu meets police chief, Israel's elections head warns against vote interference",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912753",
+      "published_date": "2026-10-25T09:48:36+00:00",
+      "category": "Economy"
+    },
     {
       "title": "'Bibicoin will destroy Israel': Eisenkot slams Netanyahu's crypto plan for alternative funding",
       "source": "The Jerusalem Post",
@@ -282,6 +303,69 @@
   ],
   "Local Events": [
     {
+      "title": "From Israel to Camp Nou: Israeli teenager Orian Goren named to Barcelona squad for El Clasico",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/sports/article-912805",
+      "published_date": "2026-10-25T16:25:01+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu shares AI-generated image of nuclear explosion in Tel Aviv, two days before election",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912797",
+      "published_date": "2026-10-25T15:55:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel needs unity: Why Herzog must bring Netanyahu, Eisenkot together - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-912256",
+      "published_date": "2026-10-25T15:25:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Netanyahu's supporters remain loyal to him despite his failures - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-912572",
+      "published_date": "2026-10-25T15:22:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jewish billionaire Bill Ackman calls for Ben-Gvir, Smotrich to be excluded from next government",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912784",
+      "published_date": "2026-10-25T14:33:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Miri Regev's unfulfilled promises: Eight transportation reforms that never happened",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-912774",
+      "published_date": "2026-10-25T13:12:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "London 'Palestine House' places life-size statue of Marwan Barghouti on roof next to Palestine flag",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/article-912770",
+      "published_date": "2026-10-25T11:52:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel braces for rainy Election Day, but can bad weather affect voter turnout?",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912746",
+      "published_date": "2026-10-25T10:28:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two German suspects arrested after being seen photographing entrance to Damon Prison",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912757",
+      "published_date": "2026-10-25T10:19:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Camille Cottin elevates French family drama 'Out of Love' as it opens in Israeli theaters - review",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/culture/article-912611",
@@ -356,69 +440,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-912690",
       "published_date": "2026-10-24T10:38:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli green card holder charged with illegal voting in 2024 US presidential election",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-912684",
-      "published_date": "2026-10-24T10:15:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel has not invested enough resources into hasbara, and now we are paying the price - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912537",
-      "published_date": "2026-10-24T07:50:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Would ousting Netanyahu cure Israel's chronic public relations failures? - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912504",
-      "published_date": "2026-10-24T07:47:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prehistoric hunter-gatherers stayed connected across 200 kilometers, Israeli study finds",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/archaeology/article-912654",
-      "published_date": "2026-10-24T02:47:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Without seed capital: Four young Israeli entrepreneurs sell AI startup for millions of shekels",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/business-and-innovation/article-912661",
-      "published_date": "2026-10-23T23:53:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barack Obama’s Belfast speech was a shameful, distorted rewrite of Israel's history - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912519",
-      "published_date": "2026-10-23T23:47:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s ballot box or Pandora’s box? - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912496",
-      "published_date": "2026-10-23T20:23:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel’s election campaign lacks substance, fresh leadership, and vision - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912574",
-      "published_date": "2026-10-23T20:17:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran threatens to sever Gulf internet cables in retaliation if US, Israel renew attacks",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-912668",
-      "published_date": "2026-10-23T20:03:52+00:00",
       "category": "Local Events"
     }
   ]
