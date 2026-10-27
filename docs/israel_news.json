@@ -31,6 +31,27 @@
   ],
   "Military": [
     {
+      "title": "Greek Orthodox Patriarch tells 'Post' 'minority group of radicals' conducted Jordan attack",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-913047",
+      "published_date": "2026-10-27T17:02:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Palestinians protest against military demolitions in West Bank as Israelis vote",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-913039",
+      "published_date": "2026-10-27T16:11:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eisenkot is hoping to beat Netanyahu, but what does the Yashar leader stand for? - explainer",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913037",
+      "published_date": "2026-10-27T15:08:09+00:00",
+      "category": "Military"
+    },
+    {
       "title": "'Complete fabrication': Netanyahu, Katz deny plans to fire IDF chief Zamir ahead of election",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-912979",
@@ -148,27 +169,6 @@
       "url": "https://www.jpost.com/middle-east/iran-news/article-912822",
       "published_date": "2026-10-25T19:31:41+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Ex-Mossad chief Barnea intended for Iran to see Israel's operations to overwhelm IRGC",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-912809",
-      "published_date": "2026-10-25T16:39:07+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Settler violence is a political blind spot in Israel’s election campaign - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912576",
-      "published_date": "2026-10-25T15:08:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF pushing for Hebron attack to be classified as clash between soldiers, terrorists, not terror",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912765",
-      "published_date": "2026-10-25T11:32:10+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -274,6 +274,90 @@
   ],
   "Local Events": [
     {
+      "title": "Likud says it received 620 reports of 'suspected irregularities' at polling stations in Arab sector",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913049",
+      "published_date": "2026-10-27T17:52:33+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Likud, Shas, Otzma Yehudit push to extend voting hours amid reports of congested polling stations",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913050",
+      "published_date": "2026-10-27T17:47:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Likud officials sound alarm over voter apathy as Israel sees record-high election turnout",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913046",
+      "published_date": "2026-10-27T17:40:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How is the Western world reporting on Israel's 26th Knesset elections?",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913040",
+      "published_date": "2026-10-27T16:57:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Don't feel like waiting': Voters complain of long lines at polling stations amid historic turnout",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913033",
+      "published_date": "2026-10-27T14:35:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arab voting may be deliberately disrupted by 'unusual delays,' Israeli civil rights watchdog warns",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913032",
+      "published_date": "2026-10-27T14:12:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘We bear the consequences’: Diaspora Jews fear fallout from Israel’s election - interview",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913031",
+      "published_date": "2026-10-27T14:01:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sohlberg bars UTJ turnout reports from polling stations; watchdog urges enforcement",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913029",
+      "published_date": "2026-10-27T13:43:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Knife-wielding man detained after approaching Democrats' Golan during Election Day tour in Tel Aviv",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913026",
+      "published_date": "2026-10-27T13:13:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Suspected Ra'am vote bribery case transferred to Lahav 433 as Netanyahu calls for investigation",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-913008",
+      "published_date": "2026-10-27T10:23:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "WATCH: Democrats activist knocked unconscious by Otzma Yehudit-affiliated activist in Holon",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913005",
+      "published_date": "2026-10-27T08:53:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Election Day: A complete guide to Israel’s political parties and what they stand for",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912590",
+      "published_date": "2026-10-27T06:32:50+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Israeli man arrested in Thailand on suspicion of drugging women, secretly filming sex",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912977",
@@ -327,90 +411,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-912919",
       "published_date": "2026-10-26T15:25:59+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lebanon's Mossad hysteria: Palestinians with Israeli phone country code spark fear in Beirut",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-912893",
-      "published_date": "2026-10-26T11:58:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Australian billionaire James Packer paid firm defending Netanyahu in trial over $1.25m. - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912887",
-      "published_date": "2026-10-26T11:17:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump-Netanyahu team suited to removing Iran’s regime, Netanyahu adviser tells ‘Post’",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912875",
-      "published_date": "2026-10-26T09:51:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will 70,000 Israelis returning from abroad for Election Day tip the political balance? - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912866",
-      "published_date": "2026-10-26T08:19:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump repeats endorsement of Netanyahu, calls for Israel, US to 'finish the job'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912847",
-      "published_date": "2026-10-26T01:38:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Einhorn's consulting firm paid Urich over NIS 1 million for work with foreign countries - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912838",
-      "published_date": "2026-10-25T22:51:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hard-hitting Ali G is back, leading new group of idiots in 'Ali G: Who Iz I?'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-912836",
-      "published_date": "2026-10-25T21:09:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel Police uncover, remove X accounts accused attempting to influence election",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912811",
-      "published_date": "2026-10-25T21:01:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Burning tires, halted traffic: Druze protesters block Route 6 days after Tel Aviv club attack",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912819",
-      "published_date": "2026-10-25T18:36:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Israel to Camp Nou: Israeli teenager Orian Goren named to Barcelona squad for El Clasico",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/sports/article-912805",
-      "published_date": "2026-10-25T16:25:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu shares AI-generated image of nuclear explosion in Tel Aviv, two days before election",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912797",
-      "published_date": "2026-10-25T15:55:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel needs unity: Why Herzog must bring Netanyahu, Eisenkot together - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912256",
-      "published_date": "2026-10-25T15:25:30+00:00",
       "category": "Local Events"
     }
   ]
