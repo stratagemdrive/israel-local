@@ -31,6 +31,27 @@
   ],
   "Military": [
     {
+      "title": "Trump says he saved Netanyahu from crushing election defeat - now, he wants influence - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913131",
+      "published_date": "2026-10-28T16:47:50+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu’s October 7 failures remain unanswered three years later - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913091",
+      "published_date": "2026-10-28T16:00:00+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US moves Patriot missile defense system from Texas to Israel ahead of possible Iran strike - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-913105",
+      "published_date": "2026-10-28T12:32:07+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Greek Orthodox Patriarch tells 'Post' 'minority group of radicals' conducted Jordan attack",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/article-913047",
@@ -148,27 +169,6 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-912842",
       "published_date": "2026-10-25T22:21:17+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Behind the scenes on how IDF got its biggest ‘hasbara’ win of the war - exclusive",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912841",
-      "published_date": "2026-10-25T22:15:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu warns of sanctions, opponents warn of collapse: Who's scaring voters? - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912830",
-      "published_date": "2026-10-25T19:50:03+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Trump rules out Sunday strike on Iran as Netanyahu warns Israel faces imminent existential threat",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-912822",
-      "published_date": "2026-10-25T19:31:41+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -263,25 +263,74 @@
       "url": "https://www.jpost.com/israel-election-2026/article-912482",
       "published_date": "2026-10-22T06:04:53+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Bank of Israel holds interest rates steady a week before election",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/business-and-innovation/article-912432",
-      "published_date": "2026-10-21T16:10:48+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "The Texas-Israel Alliance's Unicorn Rodeo connects Texas business leaders with Israeli startups",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/conferences/article-912287",
-      "published_date": "2026-10-21T12:04:19+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
     {
-      "title": "Israeli Arab political power rising with elections, challenging world’s assumptions - analysis",
+      "title": "Netanyahu's Likud alleges Arab parties 'stole' Israeli election, demands investigation",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913133",
+      "published_date": "2026-10-28T17:29:44+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election results signal political deadlock , raising three possible post-election scenarios",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913132",
+      "published_date": "2026-10-28T16:54:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel's pollsters and editors owe an explanation after failing voters - comment",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913130",
+      "published_date": "2026-10-28T16:33:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Herzog urges Israeli leaders to keep open minds, avoid another election after deadlock",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913127",
+      "published_date": "2026-10-28T16:01:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election results: Netanyahu bloc wins 53 seats, opposition holds 48, Arab parties skyrocket",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913122",
+      "published_date": "2026-10-28T14:21:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump wants Ben-Gvir, Smotrich out of Israel's next government, US sources tell 'Post'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913116",
+      "published_date": "2026-10-28T14:13:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel's opposition must form 65-seat majority coalition with Arab parties, Democrats' Golan says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913100",
+      "published_date": "2026-10-28T11:52:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anti-Netanyahu bloc vows not to let chance to replace government slip away",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913078",
+      "published_date": "2026-10-28T06:02:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "It’s time to set ego aside: Netanyahu, Eisenkot must form unity government - comment",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913074",
+      "published_date": "2026-10-28T03:08:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "After elections, Israeli Arabs now have political power - will their leaders use it? - analysis",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-913073",
       "published_date": "2026-10-28T02:38:19+00:00",
@@ -316,7 +365,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Bennett's B'Yachad projected to win 12-13 seats in next Knesset, election exit polls predict",
+      "title": "Bennett's B'Yachad projected to win 12 seats in next Knesset, election polling data predicts",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913067",
       "published_date": "2026-10-27T22:30:42+00:00",
@@ -330,17 +379,24 @@
       "category": "Local Events"
     },
     {
-      "title": "Liberman's Yisrael Beytenu projected to win 7-8 seats in next Knesset, election exit polls predict",
+      "title": "Liberman's Yisrael Beytenu expected to win seven seats in next Knesset, election data shows",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913065",
       "published_date": "2026-10-27T22:19:51+00:00",
       "category": "Local Events"
     },
     {
-      "title": "Yair Golan's Democrats projected to win nine Knesset seats in Israeli election, exit polls show",
+      "title": "Yair Golan's Democrats set to win eight Knesset seats in 2026 Israeli election",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913064",
       "published_date": "2026-10-27T22:18:15+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ben-Gvir, Smotrich's parties set to win combined 13 seats in 2026 Israeli election",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-912954",
+      "published_date": "2026-10-27T22:14:36+00:00",
       "category": "Local Events"
     },
     {
@@ -348,76 +404,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-912827",
       "published_date": "2026-10-27T22:09:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel election exit polls: Netanyahu, Eisenkot deadlocked as both blocs fall short of majority",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913053",
-      "published_date": "2026-10-27T22:06:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab voter turnout surges past 2022 figures as haredi strongholds lag behind",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913061",
-      "published_date": "2026-10-27T21:23:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Likud rep. accuses CEC of ignoring instances of voter fraud in favor of high voter turnout",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913049",
-      "published_date": "2026-10-27T17:52:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Likud, Shas, Otzma Yehudit push to extend voting hours amid reports of congested polling stations",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913050",
-      "published_date": "2026-10-27T17:47:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Likud officials sound alarm over voter apathy as Israel sees record-high election turnout",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913046",
-      "published_date": "2026-10-27T17:40:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How is the Western world reporting on Israel's 26th Knesset elections?",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913040",
-      "published_date": "2026-10-27T16:57:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Don't feel like waiting': Voters complain of long lines at polling stations amid historic turnout",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913033",
-      "published_date": "2026-10-27T14:35:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ra'am, Israeli civil rights watchdog receive reports of voter obstruction in Arab sector",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913032",
-      "published_date": "2026-10-27T14:12:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘We bear the consequences’: Diaspora Jews fear fallout from Israel’s election - interview",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913031",
-      "published_date": "2026-10-27T14:01:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sohlberg bars UTJ turnout reports from polling stations; watchdog urges enforcement",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913029",
-      "published_date": "2026-10-27T13:43:02+00:00",
       "category": "Local Events"
     }
   ]
