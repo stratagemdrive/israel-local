@@ -31,6 +31,13 @@
   ],
   "Military": [
     {
+      "title": "How do Israeli election results impact timing of possible new Iran war? - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-913152",
+      "published_date": "2026-10-28T20:12:04+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Trump says he saved Netanyahu from crushing election defeat - now, he wants influence - analysis",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913131",
@@ -162,13 +169,6 @@
       "url": "https://www.jpost.com/international/article-912806",
       "published_date": "2026-10-25T22:32:56+00:00",
       "category": "Military"
-    },
-    {
-      "title": "IDF chief pushed back on Netanyahu order for ‘action’ against Iran, fearing political motives",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912842",
-      "published_date": "2026-10-25T22:21:17+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -267,6 +267,48 @@
   ],
   "Local Events": [
     {
+      "title": "Israel's underworld at the ballot box: Who are crime figures backing?",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913171",
+      "published_date": "2026-10-29T02:33:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "A different flamenco perspective comes to Tel Aviv",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-913172",
+      "published_date": "2026-10-29T01:57:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ehud Olmert backs Eisenkot, says Netanyahu is 'on wrong side of history'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913168",
+      "published_date": "2026-10-29T00:34:49+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hit series ‘Save the Date’ headed for the big screen",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-913169",
+      "published_date": "2026-10-29T00:18:26+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election results: Netanyahu bloc holds lead with double envelopes to be counted overnight",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913164",
+      "published_date": "2026-10-28T22:17:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opposition considers Lapid for Knesset Speaker appointment - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913154",
+      "published_date": "2026-10-28T20:29:27+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Netanyahu's Likud alleges Arab parties 'stole' Israeli election, demands investigation",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913133",
@@ -362,48 +404,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913069",
       "published_date": "2026-10-27T22:48:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bennett's B'Yachad projected to win 12 seats in next Knesset, election polling data predicts",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913067",
-      "published_date": "2026-10-27T22:30:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arab parties Ra'am, Joint List soar to 19 seats amid high turnout, election exit polls show",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913066",
-      "published_date": "2026-10-27T22:23:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Liberman's Yisrael Beytenu expected to win seven seats in next Knesset, election data shows",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913065",
-      "published_date": "2026-10-27T22:19:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yair Golan's Democrats set to win eight Knesset seats in 2026 Israeli election",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913064",
-      "published_date": "2026-10-27T22:18:15+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ben-Gvir, Smotrich's parties set to win combined 13 seats in 2026 Israeli election",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912954",
-      "published_date": "2026-10-27T22:14:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shas, UTJ projected to win 12-15 seats in next Knesset, election exit polls predict",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912827",
-      "published_date": "2026-10-27T22:09:27+00:00",
       "category": "Local Events"
     }
   ]
