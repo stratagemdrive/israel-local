@@ -13,16 +13,23 @@
       "url": "https://www.jpost.com/middle-east/iran-news/article-912677",
       "published_date": "2026-10-24T02:44:49+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Huckabee questions Board of Peace’s ability to carry out Trump's Gaza peace plan - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-912630",
-      "published_date": "2026-10-23T01:07:31+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Ten US military aircraft arrive in Israel as Americans warn of 'short, focused' Iran war - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-913312",
+      "published_date": "2026-10-30T01:48:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "CENTCOM chief briefs Trump on Iran military options in meeting, source tells 'Post'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913297",
+      "published_date": "2026-10-29T21:58:34+00:00",
+      "category": "Military"
+    },
     {
       "title": "Iran targeted Israeli election, US midterms with cyber, recruitment plans – report",
       "source": "The Jerusalem Post",
@@ -148,20 +155,6 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-912915",
       "published_date": "2026-10-26T14:51:36+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Netanyahu must face treason probe over reported Iran plot to delay election, Liberman says",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912868",
-      "published_date": "2026-10-26T08:21:49+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF veteran completes Hawaii Ironman race three years after losing leg in Gaza combat",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912839",
-      "published_date": "2026-10-26T00:45:05+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -242,16 +235,58 @@
       "url": "https://www.jpost.com/israel-news/article-912634",
       "published_date": "2026-10-23T03:18:25+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Hendel to 'Post': Our party may not be the biggest, but it will be most important - interview",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912595",
-      "published_date": "2026-10-22T17:50:16+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Netanyahu's chief of staff provided intel. leading to arrests in Ra'am vote bribery case - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913308",
+      "published_date": "2026-10-30T00:14:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "True Zionists should welcome Arab participation in Israel’s government - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913305",
+      "published_date": "2026-10-29T22:53:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why are Israelis surprised Arab voters showed up? - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913304",
+      "published_date": "2026-10-29T22:38:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesters rally outside Eisenkot's home with calls to include Arab parties in coalition",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913299",
+      "published_date": "2026-10-29T22:04:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Broken promises or new elections? Netanyahu, Eisenkot face coalition dilemma",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913296",
+      "published_date": "2026-10-29T21:46:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Majority of opposition voters back Eisenkot-led government with Arab party Ra'am - poll",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913294",
+      "published_date": "2026-10-29T21:20:29+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel election results: Netanyahu's Likud biggest party in Israel after all votes counted",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913237",
+      "published_date": "2026-10-29T19:25:31+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Golan meets with Eisenkot as opposition falls short of Knesset majority",
       "source": "The Jerusalem Post",
@@ -285,6 +320,13 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/article-913266",
       "published_date": "2026-10-29T17:51:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Modi'in Mayor Haim Bibas calls for Netanyahu-Eisenkot unity government, warns against new elections",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913264",
+      "published_date": "2026-10-29T17:48:36+00:00",
       "category": "Local Events"
     },
     {
@@ -334,62 +376,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913196",
       "published_date": "2026-10-29T10:41:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shin Bet probes suspected Qatari, Turkish funding to boost Arab turnout in Israeli election",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913187",
-      "published_date": "2026-10-29T09:29:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Liberman distances himself from opposition allies, pushes for unity government - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913183",
-      "published_date": "2026-10-29T08:43:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu, Eisenkot, Bennett must put Israel first and talk unity - editorial",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913165",
-      "published_date": "2026-10-29T06:01:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's underworld at the ballot box: Who are crime figures backing?",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913171",
-      "published_date": "2026-10-29T02:33:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A different flamenco perspective comes to Tel Aviv",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-913172",
-      "published_date": "2026-10-29T01:57:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ehud Olmert backs Eisenkot, says Netanyahu is 'on wrong side of history'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913168",
-      "published_date": "2026-10-29T00:34:49+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hit series ‘Save the Date’ headed for the big screen",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-913169",
-      "published_date": "2026-10-29T00:18:26+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel election results: Netanyahu bloc holds lead with double envelopes to be counted overnight",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913164",
-      "published_date": "2026-10-28T22:17:43+00:00",
       "category": "Local Events"
     }
   ]
