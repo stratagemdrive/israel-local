@@ -17,6 +17,20 @@
   ],
   "Military": [
     {
+      "title": "IDF kills Hamas commander involved in holding Noa Argamani, 11 other hostages",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-913354",
+      "published_date": "2026-10-30T17:28:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France reimposes restrictions on Israeli defense firms at Euronaval 2026",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/defense-and-tech/article-913336",
+      "published_date": "2026-10-30T10:27:42+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ten US military aircraft arrive in Israel as Americans warn of 'short, focused' Iran war - report",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-913312",
@@ -141,20 +155,6 @@
       "url": "https://www.jpost.com/middle-east/article-912938",
       "published_date": "2026-10-26T16:58:31+00:00",
       "category": "Military"
-    },
-    {
-      "title": "IDF stops short of denying report Zamir, Netanyahu clashed over Iran strike before elections",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912920",
-      "published_date": "2026-10-26T15:16:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF finds underground shaft near West Bank home of Hamas terrorist who killed two soldiers",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912915",
-      "published_date": "2026-10-26T14:51:36+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -214,30 +214,72 @@
       "url": "https://www.jpost.com/aliyah/article-912544",
       "published_date": "2026-10-24T19:10:04+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Yoaz Hendel: Reservists are the key to breaking Israel’s political deadlock - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912499",
-      "published_date": "2026-10-23T16:52:32+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "France in flames: As Paris lectures Israel, riots leave its Jews fearing for their safety - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912389",
-      "published_date": "2026-10-23T13:53:34+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Glass bottle thrown toward Netanyahu's motorcade while passing Mahaneh Yehuda market",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912634",
-      "published_date": "2026-10-23T03:18:25+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Herzog can secure his presidential legacy by bringing Netanyahu and Eisenkot together - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913226",
+      "published_date": "2026-10-30T17:38:36+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mossad joins Shin Bet probe into alleged Qatar election interference - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913353",
+      "published_date": "2026-10-30T16:51:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel's opposition must break its promise, rely on Arab parties to oust Netanyahu - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913103",
+      "published_date": "2026-10-30T15:54:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Houthis continue to engage in ‘fierce battles’ in mountains near Aden, Taiz - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-913351",
+      "published_date": "2026-10-30T15:50:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Yuli Edelstein: Israel's election results show why a national unity government is needed - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913222",
+      "published_date": "2026-10-30T15:32:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Looking back at Patrick Stewart's Israeli movie, 'Hunting Elephants'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-913347",
+      "published_date": "2026-10-30T14:51:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Middle Israel: Netanyahu and Eisenkot both lost, but Israel may have emerged the winner",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913279",
+      "published_date": "2026-10-30T14:35:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "My Word: Negative political thinking - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913112",
+      "published_date": "2026-10-30T13:30:32+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu survived Israel's election - but a political reckoning may only be beginning",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913272",
+      "published_date": "2026-10-30T13:30:04+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Netanyahu's chief of staff provided intel. leading to arrests in Ra'am vote bribery case - report",
       "source": "The Jerusalem Post",
@@ -313,69 +355,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913268",
       "published_date": "2026-10-29T17:56:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Syria hands life sentence to Jerusalem Brigades terrorist linked with IRGC, state media announces",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-913266",
-      "published_date": "2026-10-29T17:51:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Modi'in Mayor Haim Bibas calls for Netanyahu-Eisenkot unity government, warns against new elections",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913264",
-      "published_date": "2026-10-29T17:48:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shas officials blame hardline draft stance for one of party’s worst-ever election defeats",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913262",
-      "published_date": "2026-10-29T17:34:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former Shas minister blames Deri for alienating voters as party drops to six seats",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913257",
-      "published_date": "2026-10-29T17:19:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The five issues that determine the Middle East's view of Israel's elections - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-913245",
-      "published_date": "2026-10-29T16:10:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brothers before the ballot - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913118",
-      "published_date": "2026-10-29T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "WATCH: Three Israel Police officers wounded by haredi rioters near Bnei Brak, Highway 4 shut down",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913242",
-      "published_date": "2026-10-29T15:53:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The future Israel cannot ignore: Opposition must speak to the country it hopes to lead - comment",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913212",
-      "published_date": "2026-10-29T12:40:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ra'am's Abbas rejects election interference claims, denies Qatari links 'unlike Netanyahu'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913196",
-      "published_date": "2026-10-29T10:41:02+00:00",
       "category": "Local Events"
     }
   ]
