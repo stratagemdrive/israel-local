@@ -17,6 +17,34 @@
   ],
   "Military": [
     {
+      "title": "Hind Rajab Foundation accuses Israeli visiting London of 'using starvation as a method of warfare'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/article-913371",
+      "published_date": "2026-10-31T03:08:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF demolishes monument previously damaged by MK Zvi Sukkot during West Bank ops - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913370",
+      "published_date": "2026-10-31T02:54:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Al Jazeera airs rare footage of Muhammad Deif, documents detailing October 7 attack plans",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-913369",
+      "published_date": "2026-10-31T00:51:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel bars international delegation from entering West Bank during olive harvest - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913360",
+      "published_date": "2026-10-30T20:52:09+00:00",
+      "category": "Military"
+    },
+    {
       "title": "IDF kills Hamas commander involved in holding Noa Argamani, 11 other hostages",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-913354",
@@ -127,38 +155,17 @@
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912962",
       "published_date": "2026-10-26T20:16:20+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Italy flotilla torture case against IDF officials even broader than ICC war crimes",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912947",
-      "published_date": "2026-10-26T18:13:55+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "East Jerusalem man found dead near Bethlehem, police conduct series of West Bank raids",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-912923",
-      "published_date": "2026-10-26T17:44:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hezbollah readies for new regional war with funds from Iran, sources say",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-912940",
-      "published_date": "2026-10-26T17:38:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How is the Muslim world reporting on Israel’s election?",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-912938",
-      "published_date": "2026-10-26T16:58:31+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
   "Economy": [
+    {
+      "title": "Jewish leaders for social change: Nine of history's most influential Jewish activists",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/history/article-913203",
+      "published_date": "2026-10-31T03:12:22+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Israel’s exit polls may have ‘fundamental problem’ after Netanyahu bloc surprise, pollster says",
       "source": "The Jerusalem Post",
@@ -217,6 +224,27 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "UK bars entry to Swedish academic ahead of appearance with Palestine Action founder",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-913364",
+      "published_date": "2026-10-30T22:27:56+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'A bullying atmosphere': UN's Israel obsession sidelines atrocities elsewhere, ex-UN official says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-913274",
+      "published_date": "2026-10-30T20:08:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "PM's son Yair Netanyahu deems Israeli Arabs 'greatest danger' to Israel besides Iran",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913356",
+      "published_date": "2026-10-30T18:41:19+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Herzog can secure his presidential legacy by bringing Netanyahu and Eisenkot together - opinion",
       "source": "The Jerusalem Post",
@@ -334,27 +362,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913275",
       "published_date": "2026-10-29T19:07:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran expert says second Israeli election would be ‘the best thing' that could happen to Tehran",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-913269",
-      "published_date": "2026-10-29T18:23:10+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "The morning after: Israel’s election leaves more questions than answers",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/podcast/article-913270",
-      "published_date": "2026-10-29T18:21:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot accuses Netanyahu of attempting to delegitimize election results",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913268",
-      "published_date": "2026-10-29T17:56:00+00:00",
       "category": "Local Events"
     }
   ]
