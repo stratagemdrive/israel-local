@@ -10,6 +10,41 @@
   ],
   "Military": [
     {
+      "title": "Trump speaks with Netanyahu shortly after discussing military operations with senior commanders",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913424",
+      "published_date": "2026-11-01T02:20:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Clearing the shadow: Celebrated American Col. David ‘Mickey’ Marcus’s true contribution to the IDF",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/history/article-913208",
+      "published_date": "2026-11-01T01:21:38+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "California man pleads guilty to supporting ISIS after plotting attack on alleged IDF soldier",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/islamic-terrorism/article-913404",
+      "published_date": "2026-10-31T23:38:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The West Bank is the historic heartland of the Jewish people - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913024",
+      "published_date": "2026-10-31T20:36:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The West Bank emerges as Israel’s biggest counterterrorism success since October 7 - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-912884",
+      "published_date": "2026-10-31T20:36:12+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Israel prepares for possible Iran escalation as US delays military action until after midterms",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-913395",
@@ -113,41 +148,6 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-913105",
       "published_date": "2026-10-28T12:32:07+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Greek Orthodox Patriarch tells 'Post' 'minority group of radicals' conducted Jordan attack",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-913047",
-      "published_date": "2026-10-27T17:02:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians protest against military demolitions in West Bank as Israelis vote",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913039",
-      "published_date": "2026-10-27T16:11:23+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Eisenkot is hoping to beat Netanyahu, but what does the Yashar leader stand for? - explainer",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913037",
-      "published_date": "2026-10-27T15:08:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Complete fabrication': Netanyahu, Katz deny plans to fire IDF chief Zamir ahead of election",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-912979",
-      "published_date": "2026-10-26T23:00:24+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'We do whatever they say': Yeshiva students defer to rabbis over response to IDF draft enforcement",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-912970",
-      "published_date": "2026-10-26T21:23:18+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -200,23 +200,30 @@
       "url": "https://www.jpost.com/israel-election-2026/article-912753",
       "published_date": "2026-10-25T09:48:36+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "'Bibicoin will destroy Israel': Eisenkot slams Netanyahu's crypto plan for alternative funding",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912715",
-      "published_date": "2026-10-24T21:09:27+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "She made aliyah at 16 - today, she's teaching the next generation about AI",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/aliyah/article-912544",
-      "published_date": "2026-10-24T19:10:04+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Boy George arrives in Israel ahead of two Tel Aviv concerts",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-913422",
+      "published_date": "2026-10-31T23:52:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rift between El-Sayed and pro-Israel Democratic primary rival puts Michigan Jews on edge",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-913420",
+      "published_date": "2026-10-31T22:33:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot lays out four coalition principles, says 'any MK' who accepts them can join government",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913413",
+      "published_date": "2026-10-31T19:44:31+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Elderly Haifa falafel stand owner beaten on way to work, two suspected attackers arrested",
       "source": "The Jerusalem Post",
@@ -334,27 +341,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/international/article-913347",
       "published_date": "2026-10-30T14:51:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Middle Israel: Netanyahu and Eisenkot both lost, but Israel may have emerged the winner",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913279",
-      "published_date": "2026-10-30T14:35:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "My Word: Negative political thinking - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913112",
-      "published_date": "2026-10-30T13:30:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu survived Israel's election - but a political reckoning may only be beginning",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913272",
-      "published_date": "2026-10-30T13:30:04+00:00",
       "category": "Local Events"
     }
   ]
