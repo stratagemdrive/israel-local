@@ -1,14 +1,27 @@
 {
-  "Diplomacy": [
-    {
-      "title": "Druze experts condemn Tom Barrack's accusations against Syrian Druze, warn of sectarian violence",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-912795",
-      "published_date": "2026-10-25T15:51:12+00:00",
-      "category": "Diplomacy"
-    }
-  ],
+  "Diplomacy": [],
   "Military": [
+    {
+      "title": "IDF avoiding killing certain Hamas officials in Gaza over fear of civil order collapse",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-913484",
+      "published_date": "2026-11-01T17:51:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Rabbi Dov Lando must explain his opposition to haredi IDF service - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913233",
+      "published_date": "2026-11-01T15:58:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel's new IDF Space Division marks major shift in military strategy after Iran war - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913459",
+      "published_date": "2026-11-01T13:42:11+00:00",
+      "category": "Military"
+    },
     {
       "title": "Trump speaks with Netanyahu shortly after discussing military operations with senior commanders",
       "source": "The Jerusalem Post",
@@ -127,31 +140,17 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-913152",
       "published_date": "2026-10-28T20:12:04+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Trump says he saved Netanyahu from crushing election defeat - now, he wants influence - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913131",
-      "published_date": "2026-10-28T16:47:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu’s October 7 failures remain unanswered three years later - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913091",
-      "published_date": "2026-10-28T16:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US moves Patriot missile defense system from Texas to Israel ahead of possible Iran strike - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913105",
-      "published_date": "2026-10-28T12:32:07+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
   "Economy": [
+    {
+      "title": "Third man sent to prison after stealing sound systems from murdered Nova festival victim",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-913476",
+      "published_date": "2026-11-01T15:43:34+00:00",
+      "category": "Economy"
+    },
     {
       "title": "Jewish leaders for social change: Nine of history's most influential Jewish activists",
       "source": "The Jerusalem Post",
@@ -186,23 +185,86 @@
       "url": "https://www.jpost.com/opinion/article-912828",
       "published_date": "2026-10-25T19:42:06+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Netanyahu's crypto plan could cause 'irreversible damage' to Israeli economy, business leaders warn",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/business-and-innovation/article-912781",
-      "published_date": "2026-10-25T12:47:16+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "After Netanyahu meets police chief, Israel's elections head warns against vote interference",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-912753",
-      "published_date": "2026-10-25T09:48:36+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "TIME names Israeli medical AI company Aidoc's CARE model amid Best Inventions of 2026",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/article-913497",
+      "published_date": "2026-11-01T18:36:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu may stay in power but lose control, US midterms could put Trump in same boat - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913495",
+      "published_date": "2026-11-01T18:25:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel, US have plan ready for third Iran war, Tehran's hidden weapons pose challenges - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913493",
+      "published_date": "2026-11-01T18:00:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Deserves to die': Court charges man with incitement to kill Netanyahu, coalition figures",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913487",
+      "published_date": "2026-11-01T17:21:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'The most beautiful sight': Pilgrims reach Jerusalem's Old City after five-day journey from Jaffa",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913480",
+      "published_date": "2026-11-01T16:34:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel cannot defeat extremism by embracing it - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913462",
+      "published_date": "2026-11-01T16:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "By excluding Arab citizens, Netanyahu's rivals may hand him another term - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913221",
+      "published_date": "2026-11-01T15:53:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Joint List MK investigated on suspicion of receiving Qatari funding during Israel's 2026 elections",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913469",
+      "published_date": "2026-11-01T14:46:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tel Aviv University Honors US Envoy Steve Witkoff and Hostage Advocate Einav Zangauker at Ceremony",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-912381",
+      "published_date": "2026-11-01T12:49:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Herzog calls on political leaders to demonstrate flexibility ahead of coalition negotiations",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913448",
+      "published_date": "2026-11-01T11:35:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump says US ready to hit Iran's nuclear program 'in ten minutes' after speaking with Netanyahu",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913424",
+      "published_date": "2026-11-01T02:20:08+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Boy George arrives in Israel ahead of two Tel Aviv concerts",
       "source": "The Jerusalem Post",
@@ -264,83 +326,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913391",
       "published_date": "2026-10-31T13:13:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu survives the election, but Eisenkot holds key to replacing him - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913382",
-      "published_date": "2026-10-31T09:22:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opposition bloc considers reviving direct elections without dissolving Knesset to end stalemate",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913379",
-      "published_date": "2026-10-31T08:05:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UK bars entry to Swedish academic ahead of appearance with Palestine Action founder",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-913364",
-      "published_date": "2026-10-30T22:27:56+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'A bullying atmosphere': UN's Israel obsession sidelines atrocities elsewhere, ex-UN official says",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-913274",
-      "published_date": "2026-10-30T20:08:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "PM's son Yair Netanyahu deems Israeli Arabs 'greatest danger' to Israel besides Iran",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913356",
-      "published_date": "2026-10-30T18:41:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Herzog can secure his presidential legacy by bringing Netanyahu and Eisenkot together - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913226",
-      "published_date": "2026-10-30T17:38:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mossad joins Shin Bet probe into alleged Qatar election interference - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913353",
-      "published_date": "2026-10-30T16:51:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's opposition must break its promise, rely on Arab parties to oust Netanyahu - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913103",
-      "published_date": "2026-10-30T15:54:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Houthis continue to engage in ‘fierce battles’ in mountains near Aden, Taiz - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-913351",
-      "published_date": "2026-10-30T15:50:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Yuli Edelstein: Israel's election results show why a national unity government is needed - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913222",
-      "published_date": "2026-10-30T15:32:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Looking back at Patrick Stewart's Israeli movie, 'Hunting Elephants'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-913347",
-      "published_date": "2026-10-30T14:51:37+00:00",
       "category": "Local Events"
     }
   ]
