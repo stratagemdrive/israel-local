@@ -2,6 +2,20 @@
   "Diplomacy": [],
   "Military": [
     {
+      "title": "October 7 survivors, bereaved families urge Eisenkot to reject Netanyahu unity government",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913618",
+      "published_date": "2026-11-02T19:51:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "How Israel hopes third war with Iran will be different than Gaza - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-913615",
+      "published_date": "2026-11-02T18:59:33+00:00",
+      "category": "Military"
+    },
+    {
       "title": "IDF opens haredi winter recruitment as coalition talks tackle conscription",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-913521",
@@ -126,20 +140,6 @@
       "url": "https://www.jpost.com/middle-east/article-913369",
       "published_date": "2026-10-31T00:51:20+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Israel bars international delegation from entering West Bank during olive harvest - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913360",
-      "published_date": "2026-10-30T20:52:09+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF kills Hamas commander involved in holding Noa Argamani, 11 other hostages",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913354",
-      "published_date": "2026-10-30T17:28:21+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -174,6 +174,97 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Netanyahu calls on parties who oppose terrorism to form ‘broad national gov't,’ open to discussion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913626",
+      "published_date": "2026-11-02T21:45:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel faces growing opposition in Congress as progressive Democrats seek House seats",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-913621",
+      "published_date": "2026-11-02T19:41:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Cyber Directorate issues warning to Israeli retail chains after European stores hacked",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913619",
+      "published_date": "2026-11-02T19:14:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why the US midterms are the election that matters to Israel most - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913605",
+      "published_date": "2026-11-02T18:07:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Boy George meets with Herzog, visits Museum of Tolerance in Jerusalem during Israel trip",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913599",
+      "published_date": "2026-11-02T17:57:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Haley Stevens cheered at Jewish day school after endorsing GOP Senate candidate",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-913597",
+      "published_date": "2026-11-02T17:15:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former Mossad chief calls Saudi Crown Prince 'not a mature enough person' at Taglit conference",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-913593",
+      "published_date": "2026-11-02T17:13:38+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In unusual move, Herzog to begin coalition consultations with smallest Knesset parties",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913577",
+      "published_date": "2026-11-02T16:46:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Michigan Democrat El-Sayed challenged by 250 rabbis on Israel in nationwide push by liberal Jews",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/article-913572",
+      "published_date": "2026-11-02T14:16:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Liberman pledges to recommend Eisenkot for PM, back Lapid as Knesset speaker",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913564",
+      "published_date": "2026-11-02T13:50:42+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rapper Ja Rule comes to Tel Aviv, speaks on legacy, aging, and Tupac-Biggie row - interview",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-913552",
+      "published_date": "2026-11-02T12:37:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'You murdered your son': Right-wing protesters target Eisenkot outside his home",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913535",
+      "published_date": "2026-11-02T10:27:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "El-Sayed faces pointed Israel questions as Michigan Senate race heats up",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-913530",
+      "published_date": "2026-11-02T09:42:19+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Pro-Israel Democrat Haley Stevens endorses Republican Rogers in Michigan US Senate race",
       "source": "The Jerusalem Post",
@@ -221,97 +312,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/iran-news/article-913493",
       "published_date": "2026-11-01T18:00:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Deserves to die': Court charges man with incitement to kill Netanyahu, coalition figures",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913487",
-      "published_date": "2026-11-01T17:21:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'The most beautiful sight': Pilgrims reach Jerusalem's Old City after five-day journey from Jaffa",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913480",
-      "published_date": "2026-11-01T16:34:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel cannot defeat extremism by embracing it - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913462",
-      "published_date": "2026-11-01T16:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "By excluding Arab citizens, Netanyahu's rivals may hand him another term - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913221",
-      "published_date": "2026-11-01T15:53:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Joint List MK investigated on suspicion of receiving Qatari funding during Israel's 2026 elections",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913469",
-      "published_date": "2026-11-01T14:46:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tel Aviv University Honors US Envoy Steve Witkoff and Hostage Advocate Einav Zangauker at Ceremony",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-912381",
-      "published_date": "2026-11-01T12:49:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Herzog calls on political leaders to demonstrate flexibility ahead of coalition negotiations",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913448",
-      "published_date": "2026-11-01T11:35:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump says US ready to hit Iran's nuclear program 'in ten minutes' after speaking with Netanyahu",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-913424",
-      "published_date": "2026-11-01T02:20:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy George arrives in Israel ahead of two Tel Aviv concerts",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-913422",
-      "published_date": "2026-10-31T23:52:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rift between El-Sayed and pro-Israel Democratic primary rival puts Michigan Jews on edge",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-913420",
-      "published_date": "2026-10-31T22:33:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot lays out four coalition principles, says 'any MK' who accepts them can join government",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913413",
-      "published_date": "2026-10-31T19:44:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elderly Haifa falafel stand owner beaten on way to work, two suspected attackers arrested",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-913399",
-      "published_date": "2026-10-31T17:07:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu, Eisenkot must reach a deal to end Israel's political deadlock - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913205",
-      "published_date": "2026-10-31T16:50:42+00:00",
       "category": "Local Events"
     }
   ]
