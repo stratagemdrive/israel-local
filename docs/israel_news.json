@@ -2,6 +2,41 @@
   "Diplomacy": [],
   "Military": [
     {
+      "title": "IDF opens haredi winter recruitment as coalition talks tackle conscription",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913521",
+      "published_date": "2026-11-02T03:09:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Haredi groom arrested days after wedding for evading draft, sentenced to 20 days in military prison",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913518",
+      "published_date": "2026-11-02T00:31:48+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Police disperse protesters after demonstration turns violent in Jerusalem",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913516",
+      "published_date": "2026-11-01T23:47:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Former IDF chief Halevi says Oct. 7 was 'preventable,' but was not 'betrayal from within'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913508",
+      "published_date": "2026-11-01T21:18:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel ready to strike Iran with US, but specific joint goals remain unclear - sources",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913505",
+      "published_date": "2026-11-01T20:35:13+00:00",
+      "category": "Military"
+    },
+    {
       "title": "IDF avoiding killing certain Hamas officials in Gaza over fear of civil order collapse",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-913484",
@@ -105,41 +140,6 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-913354",
       "published_date": "2026-10-30T17:28:21+00:00",
       "category": "Military"
-    },
-    {
-      "title": "France reimposes restrictions on Israeli defense firms at Euronaval 2026",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/defense-and-tech/article-913336",
-      "published_date": "2026-10-30T10:27:42+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ten US military aircraft arrive in Israel as Americans warn of 'short, focused' Iran war - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913312",
-      "published_date": "2026-10-30T01:48:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CENTCOM chief briefs Trump on Iran military options in meeting, source tells 'Post'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-913297",
-      "published_date": "2026-10-29T21:58:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Iran targeted Israeli election, US midterms with cyber, recruitment plans – report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-913265",
-      "published_date": "2026-10-29T18:01:58+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How do Israeli election results impact timing of possible new Iran war? - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913152",
-      "published_date": "2026-10-28T20:12:04+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -171,23 +171,37 @@
       "url": "https://www.jpost.com/israel-election-2026/article-913050",
       "published_date": "2026-10-27T17:47:41+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Iran fears only Netanyahu. On Tuesday, make sure it stays that way - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912840",
-      "published_date": "2026-10-25T21:46:06+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "Why does Moody’s rate France above Israel? The economic gap deserves scrutiny – opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-912828",
-      "published_date": "2026-10-25T19:42:06+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Pro-Israel Democrat Haley Stevens endorses Republican Rogers in Michigan US Senate race",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-913517",
+      "published_date": "2026-11-02T00:14:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "FAA: Plane crashes in Palm Beach, Florida after rapid dive, killing nine passengers",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-913515",
+      "published_date": "2026-11-01T22:57:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Milwaukee to Israel: A lifetime of Brewers fandom peaks with World Series title",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/sports/article-913511",
+      "published_date": "2026-11-01T22:02:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why Israel must prepare for an independent, open-ended war against Iran and its proxies - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913468",
+      "published_date": "2026-11-01T20:00:00+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "TIME names Israeli medical AI company Aidoc's CARE model amid Best Inventions of 2026",
       "source": "The Jerusalem Post",
@@ -298,34 +312,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/opinion/article-913205",
       "published_date": "2026-10-31T16:50:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What are we for? The question Israel's political opposition can no longer avoid - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913218",
-      "published_date": "2026-10-31T16:48:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fighting for belonging: A Jewish boxer's extraordinary journey through poverty, faith, and tragedy",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/sports/article-913202",
-      "published_date": "2026-10-31T15:53:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli study shows success of robotic surgery in repairing complicated abdominal hernias",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/health-and-wellness/article-913393",
-      "published_date": "2026-10-31T14:26:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Below the threshold: Elkin, Sukkot, Radman among those left out of 26th Knesset after election",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913391",
-      "published_date": "2026-10-31T13:13:50+00:00",
       "category": "Local Events"
     }
   ]
