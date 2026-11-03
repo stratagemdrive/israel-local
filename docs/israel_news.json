@@ -1,6 +1,35 @@
 {
-  "Diplomacy": [],
+  "Diplomacy": [
+    {
+      "title": "Documentary exposing UNRWA corruption, Hamas involvement, screened for United Nations diplomats",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913659",
+      "published_date": "2026-11-03T09:16:21+00:00",
+      "category": "Diplomacy"
+    }
+  ],
   "Military": [
+    {
+      "title": "Netanyahu 'can no longer be trusted,' Eisenkot says after Trump announces US aid cutoff",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913715",
+      "published_date": "2026-11-03T16:35:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump: Netanyahu agreed to end $4 billion in US aid to Israel by end of 2026",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-913711",
+      "published_date": "2026-11-03T15:32:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF indicted 'fair number' of soldiers over Gaza conduct, 'NAZA' film, military legal chief reveals",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-913694",
+      "published_date": "2026-11-03T13:22:02+00:00",
+      "category": "Military"
+    },
     {
       "title": "Second Israeli national arrested in US federal voter fraud sweep",
       "source": "The Jerusalem Post",
@@ -119,27 +148,6 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-913395",
       "published_date": "2026-10-31T14:49:47+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Khamenei: IRGC will have 'immediate, unrestricted response' to any US, Israeli threats",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-913390",
-      "published_date": "2026-10-31T12:54:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Hind Rajab Foundation accuses Israeli visiting London of 'using starvation as a method of warfare'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/article-913371",
-      "published_date": "2026-10-31T03:08:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF demolishes monument previously damaged by MK Zvi Sukkot during West Bank ops - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913370",
-      "published_date": "2026-10-31T02:54:11+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -164,16 +172,58 @@
       "url": "https://www.jpost.com/israel-election-2026/article-913271",
       "published_date": "2026-10-29T18:37:14+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "CEC denies Likud's request to extend Israeli election voting time past 10 p.m.",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913050",
-      "published_date": "2026-10-27T17:47:41+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Eisenkot: Netanyahu lacks majority, opposition bloc will repeal laws that ‘threaten democracy'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913738",
+      "published_date": "2026-11-03T19:28:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "German textbooks excel on Holocaust, uneven on Israeli-Palestinian conflict, report finds",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-913735",
+      "published_date": "2026-11-03T19:14:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bomb threat targets Haifa-bound Israeli cruise ship docked at Greek island",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-913732",
+      "published_date": "2026-11-03T18:55:57+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot gets opposition backing as leaders vow to form emergency gov't 'as soon as possible'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913678",
+      "published_date": "2026-11-03T11:27:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot may get the mandate, but haredi parties hold key to Israel's next government - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913674",
+      "published_date": "2026-11-03T11:06:37+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US midterms 2026: Democrats eye Congress takeover as anti-Israel progressives seek power",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/us-elections/article-913654",
+      "published_date": "2026-11-03T07:29:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot vows not to join Netanyahu government, even at Trump's request - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913652",
+      "published_date": "2026-11-03T06:46:50+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "UK artist David Breuer-Weil to launch Tel Aviv solo exhibition focused on Oct. 7",
       "source": "The Jerusalem Post",
@@ -263,55 +313,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/diaspora/article-913572",
       "published_date": "2026-11-02T14:16:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Liberman pledges to recommend Eisenkot for PM, back Lapid as Knesset speaker",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913564",
-      "published_date": "2026-11-02T13:50:42+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rapper Ja Rule comes to Tel Aviv, speaks on legacy, aging, and Tupac-Biggie row - interview",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-913552",
-      "published_date": "2026-11-02T12:37:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'You murdered your son': Right-wing protesters target Eisenkot outside his home",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913535",
-      "published_date": "2026-11-02T10:27:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "El-Sayed faces pointed Israel questions as Michigan Senate race heats up",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/american-politics/article-913530",
-      "published_date": "2026-11-02T09:42:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pro-Israel Democrat Haley Stevens endorses Republican Rogers in Michigan US Senate race",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/american-politics/article-913517",
-      "published_date": "2026-11-02T00:14:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "FAA: Plane crashes in Palm Beach, Florida after rapid dive, killing nine passengers",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-913515",
-      "published_date": "2026-11-01T22:57:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "From Milwaukee to Israel: A lifetime of Brewers fandom peaks with World Series title",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/sports/article-913511",
-      "published_date": "2026-11-01T22:02:35+00:00",
       "category": "Local Events"
     }
   ]
