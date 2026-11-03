@@ -2,6 +2,13 @@
   "Diplomacy": [],
   "Military": [
     {
+      "title": "Second Israeli national arrested in US federal voter fraud sweep",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913633",
+      "published_date": "2026-11-03T00:29:14+00:00",
+      "category": "Military"
+    },
+    {
       "title": "October 7 survivors, bereaved families urge Eisenkot to reject Netanyahu unity government",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913618",
@@ -133,13 +140,6 @@
       "url": "https://www.jpost.com/israel-news/article-913370",
       "published_date": "2026-10-31T02:54:11+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Al Jazeera airs rare footage of Muhammad Deif, documents detailing October 7 attack plans",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-913369",
-      "published_date": "2026-10-31T00:51:20+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -175,10 +175,38 @@
   ],
   "Local Events": [
     {
+      "title": "UK artist David Breuer-Weil to launch Tel Aviv solo exhibition focused on Oct. 7",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-913637",
+      "published_date": "2026-11-03T01:13:31+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arava film festival celebrates movies shaped by the desert",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-913635",
+      "published_date": "2026-11-03T00:49:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump raises doubts over renewed attacks on Iran",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913632",
+      "published_date": "2026-11-02T23:52:53+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Netanyahu calls on parties who oppose terrorism to form ‘broad national gov't,’ open to discussion",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913626",
       "published_date": "2026-11-02T21:45:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Opposition party leaders to hold first joint meeting since election on Tuesday",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913625",
+      "published_date": "2026-11-02T21:03:20+00:00",
       "category": "Local Events"
     },
     {
@@ -284,34 +312,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/sports/article-913511",
       "published_date": "2026-11-01T22:02:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why Israel must prepare for an independent, open-ended war against Iran and its proxies - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913468",
-      "published_date": "2026-11-01T20:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "TIME names Israeli medical AI company Aidoc's CARE model amid Best Inventions of 2026",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/business-and-innovation/article-913497",
-      "published_date": "2026-11-01T18:36:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu may stay in power but lose control, US midterms could put Trump in same boat - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913495",
-      "published_date": "2026-11-01T18:25:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel, US have plan ready for third Iran war, Tehran's hidden weapons pose challenges - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-913493",
-      "published_date": "2026-11-01T18:00:08+00:00",
       "category": "Local Events"
     }
   ]
