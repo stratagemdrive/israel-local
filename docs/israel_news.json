@@ -31,6 +31,27 @@
   ],
   "Military": [
     {
+      "title": "Palestinian teacher arrested in West Bank over posts praising terrorists, October 7 attack",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-913876",
+      "published_date": "2026-11-05T02:38:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "'Trump is right': Michigan senator-elect El-Sayed agrees with president's plan to end Israel aid",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/us-elections/article-913870",
+      "published_date": "2026-11-04T23:58:46+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel must wake up to US and the world before national security is permanently harmed - comment",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913865",
+      "published_date": "2026-11-04T21:56:57+00:00",
+      "category": "Military"
+    },
+    {
       "title": "How did Israeli start-up XTEND go from gaming company to drone warfare leader?",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/podcast/article-913840",
@@ -45,7 +66,7 @@
       "category": "Military"
     },
     {
-      "title": "IDF's pursuit of Deif disctracted from warning signs Hamas was planning October 7 attack",
+      "title": "IDF's pursuit of Deif distracted from warning signs Hamas was planning October 7 attack",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-913848",
       "published_date": "2026-11-04T17:57:44+00:00",
@@ -56,6 +77,13 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-913824",
       "published_date": "2026-11-04T17:35:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Netanyahu must explain why Israel is giving up $4b. in US military aid - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-913791",
+      "published_date": "2026-11-04T16:00:00+00:00",
       "category": "Military"
     },
     {
@@ -141,34 +169,6 @@
       "url": "https://www.jpost.com/israel-news/article-913518",
       "published_date": "2026-11-02T00:31:48+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Police disperse protesters after demonstration turns violent in Jerusalem",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913516",
-      "published_date": "2026-11-01T23:47:11+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Former IDF chief Halevi says Oct. 7 was 'preventable,' but was not 'betrayal from within'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913508",
-      "published_date": "2026-11-01T21:18:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel ready to strike Iran with US, but specific joint goals remain unclear - sources",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-913505",
-      "published_date": "2026-11-01T20:35:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF avoiding killing certain Hamas officials in Gaza over fear of civil order collapse",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913484",
-      "published_date": "2026-11-01T17:51:29+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -204,10 +204,45 @@
   ],
   "Local Events": [
     {
+      "title": "Boy George wins over Tel Aviv crowd with music, message of solidarity",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913879",
+      "published_date": "2026-11-05T04:25:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Isabelle Huppert is the star in ‘The Richest Woman in the World’ - review",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-913875",
+      "published_date": "2026-11-05T01:47:35+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Noahides from six continents gather in Jerusalem for historic first international congress",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913866",
+      "published_date": "2026-11-04T21:57:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How Israel lost four elections in less than two weeks - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-913860",
+      "published_date": "2026-11-04T20:14:58+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Sbarro bombing terrorist Ahlam Tamimi served with US lawsuit via X",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/international/article-913857",
       "published_date": "2026-11-04T19:45:59+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "US could view Israel as an enemy under Democrats, Victor Davis Hanson warns",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913859",
+      "published_date": "2026-11-04T19:27:55+00:00",
       "category": "Local Events"
     },
     {
@@ -306,41 +341,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/diaspora/antisemitism/article-913735",
       "published_date": "2026-11-03T19:14:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bomb threat targets Haifa-bound Israeli cruise ship docked at Greek island",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-913732",
-      "published_date": "2026-11-03T18:55:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot gets opposition backing as leaders vow to form emergency gov't 'as soon as possible'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913678",
-      "published_date": "2026-11-03T11:27:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot may get the mandate, but haredi parties hold key to Israel's next government - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913674",
-      "published_date": "2026-11-03T11:06:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US midterms 2026: Democrats eye Congress takeover as anti-Israel progressives seek power",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/us-elections/article-913654",
-      "published_date": "2026-11-03T07:29:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot vows not to join Netanyahu government, even at Trump's request - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913652",
-      "published_date": "2026-11-03T06:46:50+00:00",
       "category": "Local Events"
     }
   ]
