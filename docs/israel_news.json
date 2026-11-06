@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "Palestinian delegation seeks resolutions critical of Israel at UN General Assembly - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914031",
+      "published_date": "2026-11-06T03:11:57+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "BoP’s Blair meets Herzog, Netanyahu in Israel as US pushes to revive Gaza reconstruction plan",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-914001",
@@ -58,6 +65,20 @@
     }
   ],
   "Military": [
+    {
+      "title": "West Bank Arabs set Israeli vehicle on fire after Jewish rioters torch Palestinian cars - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-914020",
+      "published_date": "2026-11-05T22:23:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WATCH: Haredi protesters block light rail near Jerusalem's Bar Ilan Street, one suspect arrested",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914019",
+      "published_date": "2026-11-05T22:15:30+00:00",
+      "category": "Military"
+    },
     {
       "title": "Liberman drops veto on haredi parties in coalition, opposition in talks with UTJ - report",
       "source": "The Jerusalem Post",
@@ -183,23 +204,17 @@
       "url": "https://www.jpost.com/israel-news/article-913715",
       "published_date": "2026-11-03T16:35:46+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Trump: Netanyahu agreed to end $4 billion in US aid to Israel by end of 2026",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-913711",
-      "published_date": "2026-11-03T15:32:41+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF indicted 'fair number' of soldiers over Gaza conduct, 'NAZA' film, military legal chief reveals",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913694",
-      "published_date": "2026-11-03T13:22:02+00:00",
-      "category": "Military"
     }
   ],
-  "Energy": [],
+  "Energy": [
+    {
+      "title": "After US midterms, is there a time limit on the Iran war? - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914010",
+      "published_date": "2026-11-05T20:46:26+00:00",
+      "category": "Energy"
+    }
+  ],
   "Economy": [
     {
       "title": "Israel, Kazakhstan sign agreement to prevent double taxation following lengthy negotiations",
@@ -225,6 +240,27 @@
   ],
   "Local Events": [
     {
+      "title": "Democracy was top Jewish voter concern in midterms, not Israel or antisemitism - poll",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/article-914029",
+      "published_date": "2026-11-06T01:48:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "KLM flight bound for Tel Aviv diverted to Bucharest after bomb threat onboard",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914023",
+      "published_date": "2026-11-05T23:24:18+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Herzog warns political hostility in Israel impacts Diaspora Jews, calls for greater unity",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914016",
+      "published_date": "2026-11-05T21:46:28+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Heart2Heart plans campaign for veterans’ trauma-sensitive yoga sessions",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-913960",
@@ -232,7 +268,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Eisenkot expected to secure presidential mandate as Herzog rounds out consultation meetings",
+      "title": "Eisenkot set to receive mandate to form Israeli gov't as Herzog rounds out consultation meetings",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913989",
       "published_date": "2026-11-05T18:05:48+00:00",
@@ -341,27 +377,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-913842",
       "published_date": "2026-11-04T16:51:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iran's strategic patience in negotiation with Trump pays off after US midterm election - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-913812",
-      "published_date": "2026-11-04T12:29:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Democratic tsunami: Three major challenges facing Israel after Republican defeat - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/american-politics/article-913783",
-      "published_date": "2026-11-04T09:04:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A-G denies Zini's request to interrogate Arab party senior lawmakers, says evidence needed",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913761",
-      "published_date": "2026-11-04T00:52:51+00:00",
       "category": "Local Events"
     }
   ]
