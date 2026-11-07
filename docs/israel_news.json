@@ -73,6 +73,13 @@
   ],
   "Military": [
     {
+      "title": "The true effect of Trump halting military aid to Israel - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914095",
+      "published_date": "2026-11-06T22:44:34+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Lufthansa Group says crews will not spend overnights in Israel amid Iran threat - report",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/business-and-innovation/article-914070",
@@ -204,13 +211,6 @@
       "url": "https://www.jpost.com/israel-news/article-913764",
       "published_date": "2026-11-04T01:26:05+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Passengers of attempted flydubai hijacking fight for recognition as terror victims",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913763",
-      "published_date": "2026-11-04T01:13:39+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -253,6 +253,41 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Israel's Ethiopian community turns out for Ja Rule at Tel Aviv's Hangar 11",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/culture/article-913901",
+      "published_date": "2026-11-07T01:01:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Border Police remove pro-Palestinian graffiti as Arab parties demand action on crime, governance",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914092",
+      "published_date": "2026-11-06T23:58:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government issues warnings for northern, central Israel amid heavy thunderstorms, fears of flooding",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914094",
+      "published_date": "2026-11-06T22:51:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "UN appoints Israeli for auditing mechanisms, financial controls, for first time in history",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914090",
+      "published_date": "2026-11-06T22:27:11+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Border Police arrest Palestinian disguised as haredi Jew while attempting to enter Israel illegally",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914081",
+      "published_date": "2026-11-06T20:37:33+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Think you understand Israel's election? Here are 10 things the world may have missed - opinion",
       "source": "The Jerusalem Post",
@@ -356,41 +391,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-913966",
       "published_date": "2026-11-05T16:12:18+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US financial aid to Israel not politically sustainable after midterms, former Biden official warns",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913947",
-      "published_date": "2026-11-05T14:19:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boy George wins over Tel Aviv crowd with music, message of solidarity",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913879",
-      "published_date": "2026-11-05T04:25:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Isabelle Huppert is the star in ‘The Richest Woman in the World’ - review",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-913875",
-      "published_date": "2026-11-05T01:47:35+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Noahides from six continents gather in Jerusalem for historic first international congress",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913866",
-      "published_date": "2026-11-04T21:57:09+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Israel lost four elections in less than two weeks - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913860",
-      "published_date": "2026-11-04T20:14:58+00:00",
       "category": "Local Events"
     }
   ]
