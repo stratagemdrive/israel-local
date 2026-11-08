@@ -73,6 +73,41 @@
   ],
   "Military": [
     {
+      "title": "What is Liberman's 2018 haredi draft plan, and could it break the coalition deadlock? - explainer",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914231",
+      "published_date": "2026-11-08T17:33:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Tel Aviv man accused of stealing from yeshiva, denies recognizing himself in footage",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914217",
+      "published_date": "2026-11-08T17:24:20+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Great battles return between Mossad, IDF over Iran, sources tell 'Post'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-914220",
+      "published_date": "2026-11-08T15:59:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Foreign nationals face possible deportation after arrest in West Bank alongside Palestinians",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914213",
+      "published_date": "2026-11-08T14:49:44+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF faces severe manpower crisis as recently released reservists called back to duty",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914181",
+      "published_date": "2026-11-08T11:21:05+00:00",
+      "category": "Military"
+    },
+    {
       "title": "IDF admits West Bank commander met settler official, denies secret coordination of Jericho outpost",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-914148",
@@ -176,41 +211,6 @@
       "url": "https://www.jpost.com/podcast/article-913840",
       "published_date": "2026-11-04T18:47:17+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Robots frequently used in battle to reduce risk to soldiers, IDF chief Zamir says",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913851",
-      "published_date": "2026-11-04T18:23:27+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF's pursuit of Deif distracted from warning signs Hamas was planning October 7 attack",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913848",
-      "published_date": "2026-11-04T17:57:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF, Shin Bet kill six terrorists from three separate organizations in strikes near Khan Yunis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-913824",
-      "published_date": "2026-11-04T17:35:44+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Netanyahu must explain why Israel is giving up $4b. in US military aid - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913791",
-      "published_date": "2026-11-04T16:00:00+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "CEC ratifies election results as A-G, Shin Bet feud over foreign interference investigation",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913793",
-      "published_date": "2026-11-04T12:19:16+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -243,16 +243,58 @@
       "url": "https://www.jpost.com/israel-news/article-913769",
       "published_date": "2026-11-04T03:16:18+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Third man sent to prison after stealing sound systems from murdered Nova festival victim",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-913476",
-      "published_date": "2026-11-01T15:43:34+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "A-G Baharav-Miara says no evidence foreign interference could have changed Knesset election results",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914249",
+      "published_date": "2026-11-08T18:08:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israeli envoy rejects claims of plot to steal Mexico's water, infiltrate indigenous schools",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-914242",
+      "published_date": "2026-11-08T17:18:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'Unconventional steps required': Eisenkot vows to form emergency gov’t as Herzog bestows mandate",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914236",
+      "published_date": "2026-11-08T16:59:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "How I would spend $1 billion on the future of Israel and world Jewry - comment",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-914233",
+      "published_date": "2026-11-08T16:35:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who are the Antideutsche, Germany's pro-Israel anti-fascist left-wing group? - explainer",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-914208",
+      "published_date": "2026-11-08T14:12:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "‘No good options’: Iran war caught between Trump's midterm troubles, Israel's election shake-up",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914189",
+      "published_date": "2026-11-08T12:18:19+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot has the mandate, but Liberman and the haredim hold the keys to power - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914170",
+      "published_date": "2026-11-08T08:51:32+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "After Morocco, Tokyo ticket troubles, Arkia launches discounted eSIM deal for passengers",
       "source": "The Jerusalem Post",
@@ -342,55 +384,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914092",
       "published_date": "2026-11-06T23:58:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government issues warnings for northern, central Israel amid record breaking rainfall",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914094",
-      "published_date": "2026-11-06T22:51:39+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN appoints Israeli for auditing mechanisms, financial controls, for first time in history",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914090",
-      "published_date": "2026-11-06T22:27:11+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Police arrest Palestinian disguised as haredi Jew while attempting to enter Israel illegally",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914081",
-      "published_date": "2026-11-06T20:37:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Think you understand Israel's election? Here are 10 things the world may have missed - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913915",
-      "published_date": "2026-11-06T18:40:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli-American AEYE Health wins Prix Galien Award for new AI technology helping prevent blindness",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/health-and-wellness/article-914057",
-      "published_date": "2026-11-06T17:16:37+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hadassah Medical Center opens new immunology center as Israel's allergic population grows",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/health-and-wellness/article-914052",
-      "published_date": "2026-11-06T16:26:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A broken system: Can Israel fix its electoral rules before its democracy crumbles? - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-913905",
-      "published_date": "2026-11-06T16:06:44+00:00",
       "category": "Local Events"
     }
   ]
