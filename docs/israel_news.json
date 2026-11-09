@@ -1,6 +1,13 @@
 {
   "Diplomacy": [
     {
+      "title": "'You are a coward': Danon confronts Iranian UN representative in heated confrontation",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914281",
+      "published_date": "2026-11-09T02:27:04+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Saudi normalization will not happen under Netanyahu government, source says - report",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/article-914042",
@@ -72,6 +79,34 @@
     }
   ],
   "Military": [
+    {
+      "title": "Eisenkot, Netanyahu have 'very similar views,' Trump says, suggests both would support him",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914279",
+      "published_date": "2026-11-09T01:50:12+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Blinken: I warned Netanyahu Israel could lose young Republicans and evangelicals",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914277",
+      "published_date": "2026-11-09T00:52:47+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "ANC election losses could weaken South Africa's anti-Israel stance",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914271",
+      "published_date": "2026-11-08T22:39:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Defense establishment shocked by Trump's Israel aid cut off, details unclear, sources tell 'Post'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-914254",
+      "published_date": "2026-11-08T19:25:24+00:00",
+      "category": "Military"
+    },
     {
       "title": "What is Liberman's 2018 haredi draft plan, and could it break the coalition deadlock? - explainer",
       "source": "The Jerusalem Post",
@@ -183,34 +218,6 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-913894",
       "published_date": "2026-11-05T08:52:59+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Palestinian teacher arrested in West Bank over posts praising terrorists, October 7 attack",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-913876",
-      "published_date": "2026-11-05T02:38:06+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "'Trump is right': Michigan senator-elect El-Sayed agrees with president's plan to end Israel aid",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/us-elections/article-913870",
-      "published_date": "2026-11-04T23:58:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel must wake up to US and the world before national security is permanently harmed - comment",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-913865",
-      "published_date": "2026-11-04T21:56:57+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How did Israeli start-up XTEND go from gaming company to drone warfare leader?",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/podcast/article-913840",
-      "published_date": "2026-11-04T18:47:17+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -247,6 +254,41 @@
   ],
   "Local Events": [
     {
+      "title": "Tel Aviv to impose fines of up to NIS 1,000 on drivers for excessive honking",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914283",
+      "published_date": "2026-11-09T03:26:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Police arrest east Jerusalem teen for allegedly tearing mezuzah from Jewish home",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914262",
+      "published_date": "2026-11-09T03:21:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump cites dislike of Israel as key factor in GOP midterm losses alongside war with Iran",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914282",
+      "published_date": "2026-11-09T02:55:28+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rep. Fine to 'Post': I will not endorse Vance in 2028, blaming Jews for GOP losses inexcusable",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914278",
+      "published_date": "2026-11-09T01:26:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Channel 13 reporter suspended for racism after questioning medical credentials of El-Sayed, Tibi",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914246",
+      "published_date": "2026-11-08T20:52:45+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "A-G Baharav-Miara says no evidence foreign interference could have changed Knesset election results",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914249",
@@ -265,6 +307,20 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-914236",
       "published_date": "2026-11-08T16:59:25+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anti-Druze incitement doubles after Israeli elections, pushed by stolen vote conspiracists - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914218",
+      "published_date": "2026-11-08T16:55:17+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shas head Arye Deri withdraws from party list, will not be in 26th Knesset",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914237",
+      "published_date": "2026-11-08T16:44:25+00:00",
       "category": "Local Events"
     },
     {
@@ -335,55 +391,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-913904",
       "published_date": "2026-11-07T17:52:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thailand revokes chief rabbi’s citizenship, rattling Jewish community as Israeli tourism continues",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/article-914128",
-      "published_date": "2026-11-07T17:13:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘Not particularly prudent’: Trump’s Israel aid cutoff draws criticism from Republicans",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-914127",
-      "published_date": "2026-11-07T14:12:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "After midterm rout, Vance tries to build his own 2028 brand",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-914125",
-      "published_date": "2026-11-07T13:47:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Schoolteacher stabbed to death, partner arrested on suspicion of involvement",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914119",
-      "published_date": "2026-11-07T12:51:36+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot moves closer to ousting Netanyahu, what could come next for Israel?",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914107",
-      "published_date": "2026-11-07T05:02:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's Ethiopian community turns out for Ja Rule at Tel Aviv's Hangar 11",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/culture/article-913901",
-      "published_date": "2026-11-07T01:01:23+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Border Police remove pro-Palestinian graffiti as Arab parties demand action on crime, governance",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914092",
-      "published_date": "2026-11-06T23:58:34+00:00",
       "category": "Local Events"
     }
   ]
