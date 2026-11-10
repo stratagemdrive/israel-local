@@ -80,6 +80,13 @@
   ],
   "Military": [
     {
+      "title": "Palestinians, Jewish settlers carry out retaliatory arson attacks in West Bank",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914395",
+      "published_date": "2026-11-10T03:04:50+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Israel prosperous enough to buy US weapons without financial aid, Rubio claims",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-914383",
@@ -211,13 +218,6 @@
       "url": "https://www.jpost.com/business-and-innovation/article-914070",
       "published_date": "2026-11-06T17:34:18+00:00",
       "category": "Military"
-    },
-    {
-      "title": "IDF on high alert in Hebron as 20,000 Israelis expected for Shabbat amid terror attack fears",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914066",
-      "published_date": "2026-11-06T16:03:50+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -238,6 +238,13 @@
   ],
   "Economy": [
     {
+      "title": "Israel's 26th Knesset must restore dignity, accountability, and public trust - editorial",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-914384",
+      "published_date": "2026-11-10T05:55:53+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "US Jews urge unity, but Israelis must live with the consequences - opinion",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/opinion/article-913578",
@@ -253,6 +260,13 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Next likely US House Speaker Hakeem Jeffries to face challenges amid support for Israel",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/article-914387",
+      "published_date": "2026-11-09T22:54:07+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Where is the liberal Zionist's place at the US Democratic victory party? - opinion",
       "source": "The Jerusalem Post",
@@ -272,6 +286,13 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/international/article-914381",
       "published_date": "2026-11-09T21:22:39+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Herzog’s disingenuous call for unity: Netanyahu, Eisenkot, and the Arab parties - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-914194",
+      "published_date": "2026-11-09T20:00:00+00:00",
       "category": "Local Events"
     },
     {
@@ -377,20 +398,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/opinion/article-914233",
       "published_date": "2026-11-08T16:35:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who are the Antideutsche, Germany's pro-Israel anti-fascist left-wing group? - explainer",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-914208",
-      "published_date": "2026-11-08T14:12:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "‘No good options’: Iran war caught between Trump's midterm troubles, Israel's election shake-up",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-914189",
-      "published_date": "2026-11-08T12:18:19+00:00",
       "category": "Local Events"
     }
   ]
