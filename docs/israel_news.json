@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Maldives moves to enact permanent ban on Israeli passport holders, blocks Israeli investment",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914500",
+      "published_date": "2026-11-10T19:46:26+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chinese ambassador says Iran military aid claims 'baseless' after ex-Mossad, IDF allegations",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914484",
+      "published_date": "2026-11-10T17:28:49+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "'You are a coward': Danon confronts Iranian UN representative in heated confrontation",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-914281",
@@ -69,16 +83,44 @@
       "url": "https://www.jpost.com/international/article-913757",
       "published_date": "2026-11-03T22:44:20+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Documentary exposing UNRWA corruption, Hamas involvement, screened for United Nations diplomats",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913659",
-      "published_date": "2026-11-03T09:16:21+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Israel to expand Iron Beam integration as laser system set for bigger role in warfare by year's end",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-914490",
+      "published_date": "2026-11-10T18:03:14+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "UNICEF says Israel blocks Gaza basin repairs, warns of flooding, disease",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-914476",
+      "published_date": "2026-11-10T16:06:37+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WATCH: Six injured after extremist Israeli settlers attack peace activist rabbis in West Bank",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914444",
+      "published_date": "2026-11-10T12:35:06+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF prepares for surprise Iranian attack as US pursues diplomatic deal with Tehran",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-914434",
+      "published_date": "2026-11-10T11:08:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "WATCH: Israel's 26th Knesset sworn in as Eisenkot's bloc moves to assert control",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914409",
+      "published_date": "2026-11-10T07:38:13+00:00",
+      "category": "Military"
+    },
     {
       "title": "Palestinians, Jewish settlers carry out retaliatory arson attacks in West Bank",
       "source": "The Jerusalem Post",
@@ -183,41 +225,6 @@
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914213",
       "published_date": "2026-11-08T14:49:44+00:00",
       "category": "Military"
-    },
-    {
-      "title": "IDF faces severe manpower crisis as recently released reservists called back to duty",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914181",
-      "published_date": "2026-11-08T11:21:05+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "IDF admits West Bank commander met settler official, denies secret coordination of Jericho outpost",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-914148",
-      "published_date": "2026-11-07T20:06:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Nahala settlers to be removed from unauthorized outpost near Gaza border",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914110",
-      "published_date": "2026-11-07T06:28:19+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The true effect of Trump halting military aid to Israel - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914095",
-      "published_date": "2026-11-06T22:44:34+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Lufthansa Group says crews will not spend overnights in Israel amid Iran threat - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/business-and-innovation/article-914070",
-      "published_date": "2026-11-06T17:34:18+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -261,6 +268,41 @@
   ],
   "Local Events": [
     {
+      "title": "AI accelerates global cybersecurity crisis, Check Point CTO warns at TAU Cyber Week - interview",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914498",
+      "published_date": "2026-11-10T19:35:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Does Chikli’s meeting with Austria’s FPÖ mark an end to Israel’s boycott of the Nazi-linked party?",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914492",
+      "published_date": "2026-11-10T18:43:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu: Israel will soon face pressure to accept nuclear Iran, must form unity gov't",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914488",
+      "published_date": "2026-11-10T17:43:08+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot says opposition bloc will ‘not surrender’ on conscription amid haredi coalition talks",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914472",
+      "published_date": "2026-11-10T15:47:24+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu in 'panic' over possibility of Eisenkot becoming prime minister, former aide says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914428",
+      "published_date": "2026-11-10T10:59:29+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Next likely US House Speaker Hakeem Jeffries to face challenges amid support for Israel",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/diaspora/article-914387",
@@ -279,6 +321,13 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-914382",
       "published_date": "2026-11-09T21:58:47+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu confidant Eshel repeatedly inquired with Ra'am's Abbas about Eisenkot coalition - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914380",
+      "published_date": "2026-11-09T21:33:32+00:00",
       "category": "Local Events"
     },
     {
@@ -356,48 +405,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-914246",
       "published_date": "2026-11-08T20:52:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "A-G Baharav-Miara says no evidence foreign interference could have changed Knesset election results",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914249",
-      "published_date": "2026-11-08T18:08:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israeli envoy rejects claims of plot to steal Mexico's water, infiltrate indigenous schools",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/antisemitism/article-914242",
-      "published_date": "2026-11-08T17:18:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'Unconventional steps required': Eisenkot vows to form emergency gov’t as Herzog bestows mandate",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914236",
-      "published_date": "2026-11-08T16:59:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anti-Druze incitement doubles after Israeli elections, pushed by stolen vote conspiracists - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914218",
-      "published_date": "2026-11-08T16:55:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shas head Arye Deri withdraws from party list, will not be in 26th Knesset",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914237",
-      "published_date": "2026-11-08T16:44:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How I would spend $1 billion on the future of Israel and world Jewry - comment",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-914233",
-      "published_date": "2026-11-08T16:35:43+00:00",
       "category": "Local Events"
     }
   ]
