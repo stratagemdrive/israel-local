@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Israeli detained by UNIFIL after illegally crossing Lebanese border at Rosh HaNikra",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914531",
+      "published_date": "2026-11-11T01:56:59+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel expected to oppose Macron plan for European force to replace UNIFIL, source tells 'Post'",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-914510",
+      "published_date": "2026-11-10T21:41:17+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Maldives moves to enact permanent ban on Israeli passport holders, blocks Israeli investment",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/international/article-914500",
@@ -69,23 +83,37 @@
       "url": "https://www.jpost.com/diaspora/antisemitism/article-913856",
       "published_date": "2026-11-04T19:12:16+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Challenges to US-Israel alliance grow as anti-Israel voices gain in MAGA movement, expert warns",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-913760",
-      "published_date": "2026-11-04T00:10:08+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Former ambassador Michael Oren warns against ending US military aid to Israel",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-913757",
-      "published_date": "2026-11-03T22:44:20+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "UK Foreign Secretary calls out Israel for Gaza winter conditions, demands additional aid",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914533",
+      "published_date": "2026-11-11T02:45:43+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Twelve US senators seek to block expanded defense and intelligence cooperation with Israel",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-914528",
+      "published_date": "2026-11-11T00:55:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Ra'am chief says Netanyahu trusted Hamas's Sinwar, vows to testify before state inquiry on Oct. 7",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914515",
+      "published_date": "2026-11-10T22:01:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel to build 500-km Jordan border barrier, expand settlements in major Defense Ministry plan",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-914505",
+      "published_date": "2026-11-10T20:41:30+00:00",
+      "category": "Military"
+    },
     {
       "title": "Israel to expand Iron Beam integration as laser system set for bigger role in warfare by year's end",
       "source": "The Jerusalem Post",
@@ -197,34 +225,6 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-914254",
       "published_date": "2026-11-08T19:25:24+00:00",
       "category": "Military"
-    },
-    {
-      "title": "What is Liberman's 2018 haredi draft plan, and could it break the coalition deadlock? - explainer",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914231",
-      "published_date": "2026-11-08T17:33:32+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Tel Aviv man accused of stealing from yeshiva, denies recognizing himself in footage",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914217",
-      "published_date": "2026-11-08T17:24:20+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Great battles return between Mossad, IDF over Iran, sources tell 'Post'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-914220",
-      "published_date": "2026-11-08T15:59:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Foreign nationals face possible deportation after arrest in West Bank alongside Palestinians",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914213",
-      "published_date": "2026-11-08T14:49:44+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -267,6 +267,20 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "US Justice Department: Iran-backed group member helped plan attack on UK air base while in prison",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914520",
+      "published_date": "2026-11-10T23:27:02+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot cancels coalition talks with Likud after Netanyahu's 'divisive' Knesset speech",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914502",
+      "published_date": "2026-11-10T20:25:58+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "AI accelerates global cybersecurity crisis, Check Point CTO warns at TAU Cyber Week - interview",
       "source": "The Jerusalem Post",
@@ -391,20 +405,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/international/article-914282",
       "published_date": "2026-11-09T02:55:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rep. Fine to 'Post': I will not endorse Vance in 2028, blaming Jews for GOP losses inexcusable",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-914278",
-      "published_date": "2026-11-09T01:26:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Channel 13 reporter suspended for racism after questioning medical credentials of El-Sayed, Tibi",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914246",
-      "published_date": "2026-11-08T20:52:45+00:00",
       "category": "Local Events"
     }
   ]
