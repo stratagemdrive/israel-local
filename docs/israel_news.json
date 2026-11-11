@@ -1,6 +1,20 @@
 {
   "Diplomacy": [
     {
+      "title": "Israel excluded from COP31 climate summit in Turkey over Gaza war, Turkish minister says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/article-914598",
+      "published_date": "2026-11-11T16:27:38+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Israel leads development of first UN toolkit on documenting terror-related sexual violence",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914586",
+      "published_date": "2026-11-11T14:44:02+00:00",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Israeli detained by UNIFIL after illegally crossing Lebanese border at Rosh HaNikra",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-914531",
@@ -86,6 +100,27 @@
     }
   ],
   "Military": [
+    {
+      "title": "Netanyahu's 1996 promise to end US aid to Israel fulfilled after 30 years, PMO claims",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914604",
+      "published_date": "2026-11-11T17:57:57+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Eisenkot-led bloc secures key Knesset committee posts, Liberman to head key defense panel",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914603",
+      "published_date": "2026-11-11T17:23:18+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "France bars Samaria Regional Council head Yossi Dagan from entering country - exclusive",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914602",
+      "published_date": "2026-11-11T16:54:50+00:00",
+      "category": "Military"
+    },
     {
       "title": "UK Foreign Secretary calls out Israel for Gaza winter conditions, demands additional aid",
       "source": "The Jerusalem Post",
@@ -204,27 +239,6 @@
       "url": "https://www.jpost.com/international/article-914279",
       "published_date": "2026-11-09T01:50:12+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Blinken: I warned Netanyahu Israel could lose young Republicans and evangelicals",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-914277",
-      "published_date": "2026-11-09T00:52:47+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "ANC election losses could weaken South Africa's anti-Israel stance",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-914271",
-      "published_date": "2026-11-08T22:39:21+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Defense establishment shocked by Trump's Israel aid cut off, details unclear, sources tell 'Post'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-914254",
-      "published_date": "2026-11-08T19:25:24+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -245,6 +259,13 @@
   ],
   "Economy": [
     {
+      "title": "NGO seeks ruling on draft-linked tax discounts after Sa’ar appointed interior minister",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914600",
+      "published_date": "2026-11-11T16:46:01+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Israel's 26th Knesset must restore dignity, accountability, and public trust - editorial",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/opinion/article-914384",
@@ -257,16 +278,44 @@
       "url": "https://www.jpost.com/opinion/article-913578",
       "published_date": "2026-11-07T23:46:25+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Israel, Kazakhstan sign agreement to prevent double taxation following lengthy negotiations",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913769",
-      "published_date": "2026-11-04T03:16:18+00:00",
-      "category": "Economy"
     }
   ],
   "Local Events": [
+    {
+      "title": "Otzma Yehudit submits bill to repeal Oslo Accords, retake control of Areas A and B",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914617",
+      "published_date": "2026-11-11T19:42:41+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot takes control of Knesset, but speaker pick may complicate government formation - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914614",
+      "published_date": "2026-11-11T19:14:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany's left-wing Die Linke struggles to form coalition as anti-Israel controversy swirls",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914609",
+      "published_date": "2026-11-11T18:26:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel Police arrest five suspects in alleged NIS 16 million WhatsApp cryptocurrency fraud scheme",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914554",
+      "published_date": "2026-11-11T16:07:45+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jaroslawa Lewicka, Israel’s last living Righteous Among the Nations, dies at 91",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914546",
+      "published_date": "2026-11-11T08:05:06+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "US Justice Department: Iran-backed group member helped plan attack on UK air base while in prison",
       "source": "The Jerusalem Post",
@@ -370,41 +419,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/diaspora/article-914369",
       "published_date": "2026-11-09T19:27:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ethiopian Jews celebrate Sigd in Jerusalem, hope to share the holiday with all Israelis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914363",
-      "published_date": "2026-11-09T18:07:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu calls for all Zionist opposition parties to join him in unified government",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914356",
-      "published_date": "2026-11-09T17:10:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tel Aviv to impose fines of up to NIS 1,000 on drivers for excessive honking",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914283",
-      "published_date": "2026-11-09T03:26:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Police arrest east Jerusalem teen for allegedly tearing mezuzah from Jewish home",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914262",
-      "published_date": "2026-11-09T03:21:46+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump cites dislike of Israel as key factor in GOP midterm losses alongside war with Iran",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-914282",
-      "published_date": "2026-11-09T02:55:28+00:00",
       "category": "Local Events"
     }
   ]
