@@ -83,23 +83,44 @@
       "url": "https://www.jpost.com/middle-east/iran-news/article-913998",
       "published_date": "2026-11-05T19:12:12+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Pro-Russian Armenian critics push 'Jewish project' claims as Trump corridor advances",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-913994",
-      "published_date": "2026-11-05T18:42:10+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Amid UN tensions, Israel moves to increase number of citizens employed by organization - exclusive",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-913996",
-      "published_date": "2026-11-05T18:38:41+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "IDF revises policy to expand protections of soldiers accused of sexual harassment, assault",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914756",
+      "published_date": "2026-11-12T20:15:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Sa'ar bars two left-wing French politicians from entering country over anti-Israel statements",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914758",
+      "published_date": "2026-11-12T19:17:41+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel’s 91,000 Gaza tents fall short, aid expert says, as Hamas accused of weaponizing crisis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914755",
+      "published_date": "2026-11-12T19:06:39+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Liberman warns Netanyahu against 'dragging Israel into war' as Eisenkot gets security briefing",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-914665",
+      "published_date": "2026-11-12T09:49:32+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Israel targets senior Hamas brigade chief planning attacks from Nasser Hospital in Khan Yunis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-914652",
+      "published_date": "2026-11-12T08:02:05+00:00",
+      "category": "Military"
+    },
     {
       "title": "Let aid into Gaza, stop 'genocide,' F1 driver Hamilton demands after Rafah crossing visit",
       "source": "The Jerusalem Post",
@@ -115,7 +136,7 @@
       "category": "Military"
     },
     {
-      "title": "‘The narrative was written before it rained’: How Hamas shaped coverage of Gaza floods - exclusive",
+      "title": "How Hamas shaped Gaza's winter flooding narrative: 'It was written before it rained' - exclusive",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/middle-east/article-914629",
       "published_date": "2026-11-11T22:53:52+00:00",
@@ -136,7 +157,7 @@
       "category": "Military"
     },
     {
-      "title": "Eisenkot-led bloc secures key Knesset committee posts, Liberman to head key defense panel",
+      "title": "Netanyahu suffers Knesset defeat as Eisenkot bloc takes control of key committees",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-914603",
       "published_date": "2026-11-11T17:23:18+00:00",
@@ -204,41 +225,6 @@
       "url": "https://www.jpost.com/israel-news/defense-news/article-914434",
       "published_date": "2026-11-10T11:08:18+00:00",
       "category": "Military"
-    },
-    {
-      "title": "WATCH: Israel's 26th Knesset sworn in as Eisenkot's bloc moves to assert control",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914409",
-      "published_date": "2026-11-10T07:38:13+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Palestinians, Jewish settlers carry out retaliatory arson attacks in West Bank",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914395",
-      "published_date": "2026-11-10T03:04:50+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel prosperous enough to buy US weapons without financial aid, Rubio claims",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914383",
-      "published_date": "2026-11-09T22:15:43+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Satellite hacking poses growing global threat as cyber defenses weaken, Israeli official warns",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/defense-and-tech/article-914374",
-      "published_date": "2026-11-09T20:23:29+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israeli defense giant IWI, Dutch defense company sign Netherlands-based arms production deal",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/defense-and-tech/article-914344",
-      "published_date": "2026-11-09T16:12:32+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -281,6 +267,62 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Unusual fish caught off Israel's coast may be first of its kind documented in country",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/environment-and-climate-change/article-914745",
+      "published_date": "2026-11-12T18:33:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dutch Jewish leader tells ‘Post’: ‘If you’re visibly Jewish in Holland, you have a real problem’",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/diaspora/article-914749",
+      "published_date": "2026-11-12T18:09:58+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel is no alibi for Trump’s midterms loss - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-914459",
+      "published_date": "2026-11-12T18:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iran's nuclear ambitions best stopped through Hormuz blockade, ex-Mossad director Barnea",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-914747",
+      "published_date": "2026-11-12T17:44:34+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eisenkot meets Netanyahu for two-hour security briefing amid tensions over potential Iran strikes",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914743",
+      "published_date": "2026-11-12T17:21:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel's bipartisan support in Washington has become a casualty of Netanyahu - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-914422",
+      "published_date": "2026-11-12T17:00:00+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu trial judges order Attorney-General Baharav-Miara to appear in court next week",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914732",
+      "published_date": "2026-11-12T16:11:03+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can Netanyahu launch another war against Iran while leading a caretaker government? - explainer",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-914655",
+      "published_date": "2026-11-12T09:00:31+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "National Library of Israel's new digital archive opens window into New York’s vibrant Jewish past",
       "source": "The Jerusalem Post",
@@ -363,62 +405,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914498",
       "published_date": "2026-11-10T19:35:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Does Chikli’s meeting with Austria’s FPÖ mark an end to Israel’s boycott of the Nazi-linked party?",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914492",
-      "published_date": "2026-11-10T18:43:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu: Israel will soon face pressure to accept nuclear Iran, must form unity gov't",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914488",
-      "published_date": "2026-11-10T17:43:08+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot says opposition bloc will ‘not surrender’ on conscription amid haredi coalition talks",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914472",
-      "published_date": "2026-11-10T15:47:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu in 'panic' over possibility of Eisenkot becoming prime minister, former aide says",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914428",
-      "published_date": "2026-11-10T10:59:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Next likely US House Speaker Hakeem Jeffries to face challenges amid support for Israel",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/article-914387",
-      "published_date": "2026-11-09T22:54:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Where is the liberal Zionist's place at the US Democratic victory party? - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-914385",
-      "published_date": "2026-11-09T22:32:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Incoming MKs prepare for 26th Knesset ahead of swearing-in ceremony in orientation day",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914382",
-      "published_date": "2026-11-09T21:58:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu confidant Eshel repeatedly inquired with Ra'am's Abbas about Eisenkot coalition - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914380",
-      "published_date": "2026-11-09T21:33:32+00:00",
       "category": "Local Events"
     }
   ]
