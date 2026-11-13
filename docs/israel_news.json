@@ -62,30 +62,16 @@
       "url": "https://www.jpost.com/middle-east/article-914042",
       "published_date": "2026-11-06T10:21:34+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Palestinian delegation seeks resolutions critical of Israel at UN General Assembly - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-914031",
-      "published_date": "2026-11-06T03:11:57+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "BoP’s Blair meets Herzog, Netanyahu in Israel as US pushes to revive Gaza reconstruction plan",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914001",
-      "published_date": "2026-11-05T19:38:20+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pahlavi to 'Post' ahead of Freedom Prize: 'Europe's leaders understand Iran's regime must go'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-913998",
-      "published_date": "2026-11-05T19:12:12+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Jeffries calls for ‘dramatic change’ in US military aid to Israel after Democrats' election victory",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/american-politics/article-914766",
+      "published_date": "2026-11-12T20:35:17+00:00",
+      "category": "Military"
+    },
     {
       "title": "IDF revises policy to expand protections of soldiers accused of sexual harassment, assault",
       "source": "The Jerusalem Post",
@@ -218,13 +204,6 @@
       "url": "https://www.jpost.com/israel-news/article-914444",
       "published_date": "2026-11-10T12:35:06+00:00",
       "category": "Military"
-    },
-    {
-      "title": "IDF prepares for surprise Iranian attack as US pursues diplomatic deal with Tehran",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-914434",
-      "published_date": "2026-11-10T11:08:18+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [
@@ -233,13 +212,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/article-914053",
       "published_date": "2026-11-06T12:43:12+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "After US midterms, is there a time limit on the Iran war? - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-914010",
-      "published_date": "2026-11-05T20:46:26+00:00",
       "category": "Energy"
     }
   ],
@@ -267,6 +239,34 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Rabbi invokes Jewish law permitting killing of politicians cooperating with Arab parties - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914788",
+      "published_date": "2026-11-13T02:47:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "'I could become prime minister': Trump claims 99% approval rating in Israel",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914781",
+      "published_date": "2026-11-13T00:10:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel vows to maintain Somaliland recognition despite possible change in government - report",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914778",
+      "published_date": "2026-11-12T22:31:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bnei Brak man charged with smashing wine bottle into wife’s face, breaking two of her teeth",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914776",
+      "published_date": "2026-11-12T22:24:42+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Unusual fish caught off Israel's coast may be first of its kind documented in country",
       "source": "The Jerusalem Post",
@@ -377,34 +377,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/environment-and-climate-change/article-914562",
       "published_date": "2026-11-11T11:35:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jaroslawa Lewicka, Israel’s last living Righteous Among the Nations, dies at 91",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914546",
-      "published_date": "2026-11-11T08:05:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Justice Department: Iran-backed group member helped plan attack on UK air base while in prison",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-914520",
-      "published_date": "2026-11-10T23:27:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot cancels coalition talks with Likud after Netanyahu's 'divisive' Knesset speech",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914502",
-      "published_date": "2026-11-10T20:25:58+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "AI accelerates global cybersecurity crisis, Check Point CTO warns at TAU Cyber Week - interview",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914498",
-      "published_date": "2026-11-10T19:35:05+00:00",
       "category": "Local Events"
     }
   ]
