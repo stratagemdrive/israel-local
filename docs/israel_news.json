@@ -55,16 +55,37 @@
       "url": "https://www.jpost.com/israel-news/article-914281",
       "published_date": "2026-11-09T02:27:04+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Saudi normalization will not happen under Netanyahu government, source says - report",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-914042",
-      "published_date": "2026-11-06T10:21:34+00:00",
-      "category": "Diplomacy"
     }
   ],
   "Military": [
+    {
+      "title": "Going underground: Israel must fortify its vital infrastructure before the next war - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-914829",
+      "published_date": "2026-11-13T19:49:45+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "IDF, Shin Bet kill over 10 terrorists in Gaza, dismantle Hamas weapons workshop",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-914822",
+      "published_date": "2026-11-13T17:27:08+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Deradicalizing Gaza is possible but will take decades, counterterrorism expert says",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/islamic-terrorism/article-914769",
+      "published_date": "2026-11-13T16:41:27+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Arab from northern Israel to be indicted for posts praising Sinwar, calling for jihad, incitement",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914801",
+      "published_date": "2026-11-13T14:31:02+00:00",
+      "category": "Military"
+    },
     {
       "title": "Jeffries calls for ‘dramatic change’ in US military aid to Israel after Democrats' election victory",
       "source": "The Jerusalem Post",
@@ -176,46 +197,17 @@
       "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914515",
       "published_date": "2026-11-10T22:01:45+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Israel to build 500-km Jordan border barrier, expand settlements in major Defense Ministry plan",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-914505",
-      "published_date": "2026-11-10T20:41:30+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Israel to expand Iron Beam integration as laser system set for bigger role in warfare by year's end",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-914490",
-      "published_date": "2026-11-10T18:03:14+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "UNICEF says Israel blocks Gaza basin repairs, warns of flooding, disease",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-914476",
-      "published_date": "2026-11-10T16:06:37+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "WATCH: Six injured after extremist Israeli settlers attack peace activist rabbis in West Bank",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914444",
-      "published_date": "2026-11-10T12:35:06+00:00",
-      "category": "Military"
     }
   ],
-  "Energy": [
-    {
-      "title": "PMO does not dispute Trump's claim of halting aid to Israel, reframes it as ‘mutual investment'",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914053",
-      "published_date": "2026-11-06T12:43:12+00:00",
-      "category": "Energy"
-    }
-  ],
+  "Energy": [],
   "Economy": [
+    {
+      "title": "Who are the three Israelis among those being considered to succeed Jensen Huang as NVIDIA CEO?",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914815",
+      "published_date": "2026-11-13T14:24:31+00:00",
+      "category": "Economy"
+    },
     {
       "title": "NGO seeks ruling on draft-linked tax discounts after Sa’ar appointed interior minister",
       "source": "The Jerusalem Post",
@@ -239,6 +231,69 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "Israel's broken political system keeps resisting reform, despite decades of warnings - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914666",
+      "published_date": "2026-11-13T18:50:21+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel must stop demanding loyalty confessions from Arab citizens - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-914687",
+      "published_date": "2026-11-13T18:43:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Foreign Minister Sa’ar's critical minerals initiative wins unanimous government approval",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914825",
+      "published_date": "2026-11-13T18:36:43+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Benjamin Netanyahu’s political gamble has left Israel dangerously isolated - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-914678",
+      "published_date": "2026-11-13T18:36:04+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mossad Director Gofman visits Washington, meets CIA director, pushes to resume war with Iran",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914818",
+      "published_date": "2026-11-13T16:19:54+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unidentified woman's remains found at Tel Aviv construction site, Israel Police confirm",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914816",
+      "published_date": "2026-11-13T14:40:07+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel's coalition game: Netanyahu, Eisenkot play political bluff - who will blink first?",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914762",
+      "published_date": "2026-11-13T13:42:53+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netanyahu keeps putting himself before Israel, proving he is unfit to lead - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-914680",
+      "published_date": "2026-11-13T13:42:46+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "France calls Israel's barring of French left-wing candidate Melenchon 'demagogic' decision",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914811",
+      "published_date": "2026-11-13T12:23:34+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Rabbi invokes Jewish law permitting killing of politicians cooperating with Arab parties - report",
       "source": "The Jerusalem Post",
@@ -314,69 +369,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914732",
       "published_date": "2026-11-12T16:11:03+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Netanyahu launch another war against Iran while leading a caretaker government? - explainer",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914655",
-      "published_date": "2026-11-12T09:00:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Library of Israel's new digital archive opens window into New York’s vibrant Jewish past",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/diaspora/article-914641",
-      "published_date": "2026-11-12T04:01:02+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three years after Bedouin hero rescued 30 people on Oct. 7, Israel destroyed his family’s homes",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-914636",
-      "published_date": "2026-11-12T03:35:32+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope praises the bond uniting the Catholic Church with the people of Israel",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/christianworld/article-914639",
-      "published_date": "2026-11-12T03:04:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Otzma Yehudit submits bill to repeal Oslo Accords, retake control of Areas A and B",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914617",
-      "published_date": "2026-11-11T19:42:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eisenkot takes control of Knesset, but speaker pick may complicate government formation - analysis",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-914614",
-      "published_date": "2026-11-11T19:14:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germany's left-wing Die Linke struggles to form coalition as anti-Israel controversy swirls",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-914609",
-      "published_date": "2026-11-11T18:26:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel Police arrest five suspects in alleged NIS 16 million WhatsApp cryptocurrency fraud scheme",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914554",
-      "published_date": "2026-11-11T16:07:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eilat, southern Israel hit by 4.5 magnitude earthquake, Ramon Airport temporarily grounds flights",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/environment-and-climate-change/article-914562",
-      "published_date": "2026-11-11T11:35:58+00:00",
       "category": "Local Events"
     }
   ]
