@@ -59,6 +59,20 @@
   ],
   "Military": [
     {
+      "title": "Merkel defends Israel's right to exist, questions disproportionate global criticism",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/international/article-914837",
+      "published_date": "2026-11-14T02:16:21+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "US Fifth Fleet commander meets Navy chief Eyal Harel amid Iran tensions",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/article-914833",
+      "published_date": "2026-11-14T00:18:36+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Going underground: Israel must fortify its vital infrastructure before the next war - opinion",
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/opinion/article-914829",
@@ -183,20 +197,6 @@
       "url": "https://www.jpost.com/israel-news/article-914533",
       "published_date": "2026-11-11T02:45:43+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Twelve US senators seek to block expanded defense and intelligence cooperation with Israel",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/american-politics/article-914528",
-      "published_date": "2026-11-11T00:55:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Ra'am chief says Netanyahu trusted Hamas's Sinwar, vows to testify before state inquiry on Oct. 7",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914515",
-      "published_date": "2026-11-10T22:01:45+00:00",
-      "category": "Military"
     }
   ],
   "Energy": [],
@@ -231,6 +231,20 @@
     }
   ],
   "Local Events": [
+    {
+      "title": "The 'Israel controls America' myth has a long history - and an antisemitic foundation - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-914239",
+      "published_date": "2026-11-13T23:53:23+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump and Netanyahu must seize the narrow window of opportunity to stop Iran - opinion",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/opinion/article-914713",
+      "published_date": "2026-11-13T21:24:02+00:00",
+      "category": "Local Events"
+    },
     {
       "title": "Israel's broken political system keeps resisting reform, despite decades of warnings - analysis",
       "source": "The Jerusalem Post",
@@ -355,20 +369,6 @@
       "source": "The Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-914743",
       "published_date": "2026-11-12T17:21:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel's bipartisan support in Washington has become a casualty of Netanyahu - opinion",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/opinion/article-914422",
-      "published_date": "2026-11-12T17:00:00+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netanyahu trial judges order Attorney-General Baharav-Miara to appear in court next week",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-914732",
-      "published_date": "2026-11-12T16:11:03+00:00",
       "category": "Local Events"
     }
   ]
